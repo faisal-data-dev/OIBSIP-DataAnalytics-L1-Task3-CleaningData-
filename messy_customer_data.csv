@@ -1,0 +1,1241 @@
+CustomerID,FullName,Gender,SignupDate,Age,AnnualIncome,City,LastPurchaseAmount,SatisfactionScore
+1483,Fatima Brown,M,2024-01-06,29.0,"$62,607.72",London,385.1,3.0
+1346,Omar Malik,Male,2019-09-19,19.0,"$80,235.78",london ,80.23,4.0
+1014,John Butt,F,01 Aug 2024,38.0,"$82,015.66",Lahore,58.38,4.0
+2026,David Smith,Female,2020-02-21,19.0,"$25,686.28",London,10.15,4.0
+1786,Sara Wilson,Male,,34.0,"$73,305.77",karachi,81.99,5.0
+1957,Wei Malik,Male,2020-05-26,65.0,"$93,818.32",New York,131.94,5.0
+1812,Hassan Farooq,Male,08-22-2021,41.0,"$12,080.64",Karachi,133.85,5.0
+1928,Omar Garcia,MALE,2024-06-02,74.0,"$48,862.68",london ,13.16,4.0
+1448,Ali Chen,F,2023-04-16,56.0,"$72,745.92",LAHORE ,50.39,2.0
+1204,Ali Khan,Male,09-07-2023,19.0,"$40,914.20",London,56.04,3.0
+1430,Noor Smith,female,11-03-2019,47.0,"$49,884.68",Karachi,136.54,3.0
+1391,Fatima Butt,F,10-31-2021,34.0,"$49,739.26",New York,38.12,5.0
+1378,Sara Iqbal,female,2022-04-10,51.0,"$45,590.86",New York,197.47,4.0
+1949,Fatima Wilson,Male,20 Oct 2019,59.0,"$61,840.32",london ,175.1,
+2041,Noor Khan,F,02-25-2023,67.0,"$61,777.39",New York,156.99,1.0
+1218,Fatima Malik,M,19/12/2021,30.0,"$73,012.05",London,63.01,4.0
+1936,Ali Ahmed,Female,15 Apr 2019,20.0,"$51,582.71",Karachi,133.4,4.0
+1348,Zara Wilson,MALE,02-19-2020,50.0,"$55,455.24",Islamabad,4.52,5.0
+1719,Wei Malik,Female,30/08/2024,37.0,"$60,795.59",new york,9.55,2.0
+1998,Wei Smith,Female,26 Aug 2020,27.0,"$67,307.58",Lahore,3.61,4.0
+1724,James Malik,Male,27/09/2023,69.0,"$48,707.10", Islamabad,128.22,5.0
+1036,Omar Wilson,Female,07-09-2020,42.0,"$35,755.90",london ,348.29,5.0
+1963,David Brown,Male,2024-09-10,73.0,"$18,804.76",Lahore,161.72,5.0
+1022,Fatima Wilson,F,03/07/2022,63.0,"$48,510.23",LAHORE ,121.07,2.0
+1640,Omar Iqbal,Male,04 Jun 2023,28.0,"$34,853.14",London,168.38,4.0
+1765,Emma Wilson,Male,2019-08-10,48.0,"$48,478.16",london ,95.94,5.0
+1615,James Malik,FEMALE,28/01/2022,62.0,"$55,478.73",london ,576.19,1.0
+1913,Noor Farooq,MALE,2023-10-21,31.0,"$54,886.69",,125.43,
+2040,Fatima Smith,Male,16/10/2021,68.0,"$69,482.66",new york,154.31,4.0
+1178,John Wilson,Female,2020-08-09,18.0,"$73,226.73",karachi,123.32,4.0
+2074,Ayesha Brown,M,19 Mar 2023,32.0,"$88,061.34",london ,26.54,4.0
+1898,David Smith,Male,2021-12-14,66.0,"$17,840.97",,172.06,5.0
+1525,Wei Smith,FEMALE,16/04/2021,59.0,"$19,904.30",Lahore,41.17,5.0
+1595,Bilal Butt,M,01/12/2021,60.0,"$43,023.88",London,205.75,4.0
+1265,David Malik,Male,02-28-2020,70.0,"$63,887.93",LAHORE ,2.73,5.0
+2073,Zara Iqbal,M,2022-04-28,61.0,"$35,915.12",lahore,332.55,4.0
+1806,Hassan Malik,Female,,19.0,"$73,540.95",karachi,56.07,5.0
+1585,Zara Khan,Male,30 Jan 2020,49.0,"$32,968.32", Islamabad,87.05,5.0
+2061,David Lopez,MALE,2023-08-25,53.0,"$51,995.86",New York,26.93,
+2027,John Khan,M,06-08-2020,46.0,"$39,257.92", Islamabad,122.34,3.0
+1072,James Wilson,F,2020-04-27,37.0,"$25,913.71",Islamabad,62.13,5.0
+1166,Bilal Farooq,Female,08-22-2020,19.0,"$63,563.74", Islamabad,121.22,3.0
+1883,Zara Garcia,Male,01-19-2022,22.0,"$37,332.45",Karachi,174.14,4.0
+1554,James Ahmed,Male,2022-08-05,57.0,"$64,510.73", Islamabad,103.68,3.0
+1924,Noor Wilson,Female,13 Aug 2020,70.0,"$51,335.27",Karachi,51.62,4.0
+1668,Maria Khan,Male,01-02-2019,45.0,"$40,123.06",London,8.25,
+1417,Noor Malik,MALE,26/02/2019,46.0,"$61,693.06",New York,20.53,2.0
+2028,James Brown,FEMALE,14 Nov 2021,71.0,"$66,293.71",lahore,120.24,4.0
+1541,Ali Lopez,Male,2022-07-30,44.0,"$45,344.48",LAHORE ,93.19,4.0
+1085,John Butt,FEMALE,07-06-2021,51.0,"$43,835.98",lahore,265.48,3.0
+1877,Noor Butt,Male,05 Dec 2021,45.0,"$49,969.71",london ,6.73,5.0
+1685,Wei Butt,Female,02-22-2021,32.0,"$47,984.21",new york,274.94,5.0
+1625,Wei Garcia,female,02-04-2019,68.0,"$56,098.04",Lahore,220.28,2.0
+1487,John Iqbal,Male,23 Feb 2020,59.0,"$56,720.53",Karachi,66.45,4.0
+1335,David Brown,Female,2021-05-05,59.0,"$58,334.79",london ,100.56,2.0
+1687,James Malik,Female,08/12/2020,36.0,"$40,479.27",karachi,168.03,5.0
+1394,James Wilson,Female,26 Mar 2022,63.0,"$59,202.70",LAHORE ,15.6,3.0
+1350,Sara Khan,Female,09/03/2021,70.0,"$52,633.56",london ,109.44,
+1559,Hassan Khan,female,12/08/2022,55.0,,new york,120.86,
+1299,Fatima Smith,M,02 Aug 2020,55.0,"$74,476.03",london ,117.99,4.0
+1222,Ali Butt,Male,2021-03-31,32.0,"$50,279.06",new york,447.61,4.0
+1627,Emma Wilson,Male,10/10/2023,71.0,"$42,247.44",Islamabad,161.54,5.0
+1976,James Butt,Female,03-27-2021,66.0,"$33,138.58",Karachi,212.1,
+1504,James Brown,Male,10-20-2021,50.0,"$94,902.02", Islamabad,1.85,3.0
+1674,Emma Malik,Male,19 Jun 2021,18.0,"$41,760.98",Islamabad,33.48,5.0
+1842,Omar Garcia,FEMALE,2023-05-11,19.0,"$60,740.45",Karachi,27.45,2.0
+1979,Sara Brown,Male,11-15-2024,37.0,"$46,198.90",lahore,63.19,5.0
+1047,Ali Butt,Male,14/02/2022,40.0,"$71,757.01",,36.78,1.0
+1540,Emma Ahmed,FEMALE,2021-09-08,51.0,"$53,200.59",London,108.27,3.0
+1975,Wei Wilson,female,13 Aug 2019,19.0,"$24,843.93",Karachi,45.83,4.0
+1661,Bilal Garcia,Female,03 Apr 2023,62.0,"$69,459.61",new york,8.18,3.0
+1649,Ali Smith,Female,03-12-2020,36.0,"$57,992.27", Islamabad,151.2,5.0
+1417,Omar Garcia,Female,05 Sep 2024,42.0,"$58,176.36",New York,82.5,2.0
+1804,Sara Iqbal,Male,25/11/2019,28.0,"$52,679.89",Lahore,46.87,5.0
+2077,Maria Smith,,11-17-2023,53.0,"$35,648.94",New York,243.44,4.0
+1513,Hassan Brown,Male,2022-03-22,66.0,"$71,466.70",London,62.82,
+1724,Fatima Iqbal,Female,25 Jun 2024,26.0,"$50,003.36",LAHORE ,82.48,3.0
+1279,James Khan,Female,02/04/2021,48.0,"$57,288.89",lahore,15.29,5.0
+1697,Sara Brown,Male,05 Dec 2022,21.0,"$62,003.60",london ,24.41,
+1532,Ayesha Malik,Female,07 May 2022,35.0,"$75,334.55",Karachi,147.48,5.0
+1438,Omar Khan,male,15 Dec 2020,35.0,"$12,000.00", Islamabad,449.61,4.0
+1358,Sara Iqbal,Female,2020-10-01,31.0,"$23,088.47",new york,103.84,4.0
+1511,Zara Smith,,29/05/2019,21.0,"$49,098.49",New York,296.74,2.0
+1597,Emma Garcia,Male,16 Jan 2023,32.0,"$73,593.73",Karachi,181.88,5.0
+1540,Noor Brown,M,05 Oct 2020,62.0,"$64,972.83",New York,2.96,5.0
+1671,John Ahmed,Female,2020-04-25,72.0,"$53,475.71",new york,2.29,4.0
+1378,Sara Brown,Male,02 Mar 2022,52.0,"$54,649.40",karachi,216.33,4.0
+2011,Wei Khan,FEMALE,15/07/2019,56.0,"$72,566.18",london ,74.8,5.0
+1675,David Butt,MALE,05 Jun 2022,34.0,"$55,330.40",lahore,34.94,4.0
+1297,Wei Malik,FEMALE,2024-06-22,32.0,"$23,154.62",New York,89.15,5.0
+1964,Wei Iqbal,Female,27/05/2024,30.0,"$64,167.78",Karachi,53.53,5.0
+1212,Wei Ahmed,Female,06 Nov 2023,53.0,"$51,307.91",new york,14.92,4.0
+1662,Fatima Garcia,male,07-08-2022,0.0,"$30,686.21",lahore,23.9,2.0
+1306,Bilal Khan,F,10 Jul 2024,61.0,"$55,366.35",new york,204.03,5.0
+1480,Fatima Butt,Male,06-30-2021,42.0,"$62,922.72",New York,305.63,5.0
+1113,David Butt,Male,27 Oct 2019,64.0,"$46,264.12",,81.41,
+1844,Maria Khan,Male,08-21-2023,28.0,"$60,576.70",New York,33.34,4.0
+1096,David Chen,Female,13/11/2019,25.0,"$52,789.24",LAHORE ,16.05,
+1632,Bilal Brown,,26/10/2024,35.0,"$63,180.18",LAHORE ,22.58,5.0
+1086,Noor Iqbal,Male,12-03-2024,36.0,"$38,632.47",,82.26,5.0
+1617,Hassan Lopez,MALE,2023-05-02,47.0,"$42,230.54",LAHORE ,43.99,3.0
+1287,Ayesha Smith,Female,29/06/2022,64.0,"$27,535.13",new york,97.83,5.0
+1682,Ayesha Garcia,F,31 Jul 2021,64.0,"$52,998.54",karachi,22.21,3.0
+1531,Wei Iqbal,FEMALE,07-20-2023,30.0,"$63,200.29",lahore,462.21,4.0
+1282,Hassan Farooq,Female,08-21-2021,70.0,"$76,405.71",LAHORE ,139.21,5.0
+1583,James Wilson,FEMALE,27 Jul 2023,47.0,"$70,595.44",london ,174.76,
+1007,David Khan,Male,08-06-2019,59.0,"$78,795.78",new york,0.31,4.0
+1064,David Brown,FEMALE,27/06/2019,46.0,"$55,054.72", Islamabad,101.91,5.0
+1072,Fatima Iqbal,FEMALE,12/05/2019,33.0,"$47,954.73",lahore,0.35,
+1914,Bilal Iqbal,Female,10 Mar 2020,49.0,"$58,684.97",Karachi,20.25,2.0
+1070,Ali Khan,Male,06/12/2021,24.0,"$39,429.21",,47.6,5.0
+1776,David Garcia,Male,27/06/2024,18.0,"$54,246.41",London,17.68,4.0
+2047,Maria Smith,Female,22 Apr 2019,32.0,"$62,730.91",Lahore,33.89,
+1153,Ayesha Garcia,Female,23/10/2021,24.0,"$65,635.08",lahore,320.72,4.0
+1228,Maria Smith,Female,08-18-2023,68.0,"$59,868.72",new york,101.79,5.0
+1074,Zara Brown,Female,2024-10-13,44.0,"$72,361.39",Islamabad,63.45,5.0
+1010,Fatima Malik,male,14/10/2019,37.0,"$36,914.16",LAHORE ,373.65,3.0
+1117,Noor Malik,F,2022-10-24,,"$70,342.74",New York,21.0,3.0
+1089,Maria Brown,Male,16/04/2019,71.0,"$83,566.15",Islamabad,23.11,4.0
+1239,Zara Chen,Male,21/09/2019,74.0,"$75,633.85",london ,471.9,4.0
+1841,Sara Smith,MALE,12 Jun 2024,26.0,"$41,163.65",New York,76.1,3.0
+1412,Maria Garcia,Female,03-25-2023,46.0,"$77,382.14",New York,66.1,5.0
+1420,Ayesha Butt,Male,15 May 2023,46.0,,Islamabad,22.83,3.0
+1724,Emma Iqbal,Male,06/06/2023,48.0,"$71,477.49",New York,33.68,2.0
+2037,Bilal Butt,Female,19/04/2024,49.0,"$55,972.68",Lahore,387.51,
+1032,Emma Chen,Female,09 Dec 2023,41.0,"$56,517.02", Islamabad,120.43,4.0
+1330,Omar Wilson,MALE,2022-01-25,33.0,"$51,121.28",new york,158.41,4.0
+1501,James Farooq,male,06 Jan 2022,38.0,"$44,713.56", Islamabad,293.78,4.0
+1316,Ali Brown,Female,11 Sep 2020,43.0,,Lahore,52.51,3.0
+1560,Hassan Ahmed,,2019-12-14,54.0,"$30,261.53",karachi,182.73,3.0
+1817,Maria Khan,Female,22/11/2021,22.0,"$39,443.96",New York,277.08,5.0
+1157,Wei Smith,Male,08-15-2020,21.0,"$60,288.85",lahore,10.39,5.0
+2014,Omar Butt,FEMALE,13/08/2021,52.0,"$74,768.71",london ,482.74,2.0
+1334,James Butt,Male,2019-06-05,47.0,"$91,096.35",Karachi,72.18,5.0
+1225,Ali Butt,Male,29 Sep 2020,38.0,"$82,631.01",london ,85.6,5.0
+1344,John Wilson,Female,21/11/2020,53.0,"$69,325.88",lahore,239.25,5.0
+1293,Bilal Khan,FEMALE,01-30-2021,,"$54,046.53",lahore,92.81,4.0
+1021,Ali Farooq,M,2019-07-08,33.0,"$44,900.66",Islamabad,97.6,5.0
+1790,Omar Garcia,F,28/12/2019,61.0,"$46,136.48",,10.25,3.0
+2041,James Brown,Female,2020-07-07,29.0,"$58,924.04",,178.09,4.0
+1824,Noor Smith,Male,22 Jul 2020,49.0,"$39,001.98", Islamabad,156.15,2.0
+1556,Bilal Ahmed,Female,03-15-2021,48.0,"$56,072.39",Islamabad,8.72,4.0
+1139,Fatima Ahmed,FEMALE,24 Sep 2019,32.0,"$32,984.17",Karachi,52.15,5.0
+1814,Omar Brown,female,2023-07-18,48.0,"$24,588.69",Islamabad,196.77,1.0
+1304,James Garcia,MALE,20 Feb 2024,41.0,"$61,348.07",London,215.07,5.0
+1942,Fatima Chen,Female,11 Nov 2024,21.0,"$64,501.80",london ,297.26,4.0
+1051,Fatima Wilson,Male,,64.0,"$81,048.89", Islamabad,22.81,4.0
+1349,Ayesha Malik,Male,08-17-2024,50.0,"$79,720.85",new york,69.86,4.0
+1315,Wei Iqbal,Female,02/10/2019,27.0,"$57,045.06",Islamabad,25.98,5.0
+1919,Ali Chen,M,2021-10-29,48.0,"$62,074.73",New York,24.33,5.0
+1363,Ali Garcia,MALE,2023-02-03,-5.0,"$66,532.57",Islamabad,286.99,3.0
+1604,James Malik,F,02-11-2021,69.0,"$42,962.54",karachi,116.26,4.0
+1218,Ayesha Khan,Male,06/01/2019,21.0,"$80,867.20",New York,75.16,4.0
+1303,James Garcia,female,09-28-2021,69.0,"$45,574.09",New York,79.44,
+1475,Emma Butt,Male,2023-10-01,54.0,"$43,124.43",New York,57.55,5.0
+1756,Maria Khan,Female,,57.0,"$51,876.59",london ,12.89,4.0
+1840,Hassan Brown,male,12/03/2023,35.0,"$54,101.10",london ,260.26,4.0
+2079,Bilal Wilson,Female,2020-06-13,68.0,"$43,909.13",london ,26.79,4.0
+1360,Maria Lopez,Male,2024-07-12,42.0,"$67,289.85",New York,26.99,4.0
+1532,Bilal Ahmed,male,24 Nov 2023,,"$80,881.15",london ,93.94,5.0
+1777,Wei Farooq,Female,07-29-2023,46.0,"$60,959.14",lahore,6.38,5.0
+1450,Emma Ahmed,MALE,2020-01-03,59.0,"$62,998.32",New York,64.81,4.0
+1560,Ayesha Ahmed,Female,2020-07-31,64.0,"$12,000.00",Lahore,82.34,4.0
+1992,Ali Malik,M,2021-12-10,23.0,"$39,705.13",Islamabad,61.48,5.0
+1991,David Farooq,Male,20/03/2020,41.0,"$48,418.89",Islamabad,17.31,4.0
+1356,Omar Farooq,Female,,59.0,"$93,789.68",Karachi,532.37,
+1039,Omar Malik,Female,25 Nov 2020,300.0,"$76,575.81",New York,7.05,3.0
+1291,Ayesha Farooq,M,08 Jun 2021,31.0,"$38,705.71",karachi,86.72,4.0
+1841,David Farooq,female,2020-03-27,21.0,"$48,488.00",Karachi,45.74,5.0
+1413,Hassan Smith,F,05-17-2021,38.0,"$56,552.75",London,55.26,
+2008,Noor Garcia,Male,05 Oct 2021,70.0,"$54,672.85",Karachi,135.29,
+1578,Omar Khan,F,05-14-2019,46.0,"$56,687.46",new york,582.33,4.0
+1803,Bilal Iqbal,Male,11-27-2020,74.0,"$57,017.68",,406.76,3.0
+1623,Maria Brown,male,04 Nov 2024,59.0,"$87,413.97",london ,400.66,5.0
+1168,Emma Garcia,MALE,07-19-2024,43.0,"$40,264.05", Islamabad,18.35,4.0
+1859,Noor Brown,Male,2021-08-19,27.0,"$77,635.33",london ,157.84,4.0
+1056,Bilal Lopez,Female,09-08-2019,50.0,"$63,689.89",karachi,48.41,4.0
+1436,Noor Garcia,F,21/04/2022,43.0,"$76,289.82",new york,90.52,4.0
+1329,Bilal Wilson,Male,24 Oct 2024,61.0,"$49,578.78",New York,35.01,5.0
+1723,Sara Iqbal,Male,2024-09-06,24.0,"$45,727.54",Karachi,92.48,4.0
+1571,Bilal Smith,Female,09-08-2024,25.0,"$31,065.74",,16.35,4.0
+1919,Fatima Lopez,Male,16 Jun 2019,69.0,"$40,690.37",karachi,46.01,4.0
+1843,,male,24/08/2021,68.0,"$69,353.20",Islamabad,7.52,
+1607,Noor Iqbal,Female,2023-03-06,52.0,"$57,119.16",Islamabad,155.14,4.0
+1424,John Brown,Female,22/04/2024,47.0,"$69,703.29",New York,261.26,5.0
+1798,James Chen,MALE,19/07/2022,18.0,,London,58.8,3.0
+1479,David Smith,female,01-29-2023,51.0,"$107,977.98",Islamabad,42.36,4.0
+1726,Ali Malik,FEMALE,2024-12-27,51.0,"$63,942.83",LAHORE ,7.72,5.0
+1018,John Iqbal,Male,27 Jul 2020,,"$38,370.81",Lahore,280.15,3.0
+1350,Omar Lopez,Male,05/03/2020,72.0,"$52,589.27",New York,38.53,5.0
+1680,Ayesha Malik,Male,10-10-2020,63.0,,lahore,75.39,
+1291,Bilal Khan,M,2019-07-30,72.0,"$60,115.86",Karachi,230.24,
+1255,Bilal Chen,FEMALE,06/08/2022,,"$60,878.12",lahore,248.91,
+1586,Sara Farooq,Male,2021-04-15,30.0,"$28,529.82",lahore,36.39,3.0
+1623,Noor Khan,,2023-09-03,48.0,"$48,483.18",new york,0.18,1.0
+1796,John Smith,male,03 Jul 2024,27.0,"$58,335.28",LAHORE ,211.49,5.0
+2072,Fatima Chen,female,07/07/2023,26.0,"$45,709.78",Islamabad,102.17,5.0
+1357,John Wilson,Male,03-26-2023,26.0,"$18,473.08",New York,47.93,4.0
+1657,Noor Farooq,Male,23 May 2019,28.0,"$33,103.21",lahore,278.62,4.0
+1925,Emma Brown,male,23/08/2024,59.0,"$102,194.35",London,13.52,5.0
+1533,Zara Butt,FEMALE,2019-02-19,34.0,,lahore,359.34,4.0
+1620,Emma Garcia,MALE,12-21-2022,50.0,"$57,994.51", Islamabad,27.01,5.0
+1193,Fatima Khan,Female,2021-09-17,38.0,"$50,631.06", Islamabad,133.67,5.0
+1014,Sara Lopez,Male,30/09/2021,24.0,"$52,583.36",Lahore,6.16,4.0
+1611,Sara Iqbal,Female,30/11/2023,24.0,"$66,346.04",karachi,73.81,2.0
+1544,Ali Malik,M,2022-07-17,58.0,"$63,484.98",London,21.17,5.0
+1194,Ali Smith,FEMALE,26/09/2024,72.0,"$42,112.27",karachi,2.11,5.0
+1261,Ali Malik,MALE,01-19-2020,55.0,"$52,762.66",New York,267.63,4.0
+1265,Ali Iqbal,,12/02/2022,36.0,"$73,106.92",New York,227.18,4.0
+1922,Noor Lopez,Female,2023-01-23,72.0,"$73,666.22",karachi,152.48,5.0
+1127,Emma Malik,Female,05 Apr 2023,43.0,"$68,846.67",London,2.57,3.0
+1747,James Malik,Male,28 Aug 2019,49.0,"$45,123.39",london ,34.19,5.0
+1304,Wei Brown,Female,10-17-2022,38.0,"$60,755.10",London,113.02,4.0
+1499,Omar Wilson,Female,18/03/2019,65.0,"$50,168.00",Lahore,195.34,4.0
+1737,Zara Garcia,Male,04-13-2021,,"$90,731.96",karachi,129.58,5.0
+1903,Wei Iqbal,male,31 Mar 2024,63.0,"$47,731.89",LAHORE ,462.64,2.0
+1531,Fatima Ahmed,F,24/09/2021,52.0,"$26,508.79",Islamabad,292.21,3.0
+1167,Hassan Lopez,Male,19 Jul 2019,,"$74,253.82", Islamabad,24.88,4.0
+1764,Ayesha Lopez,male,18/09/2020,27.0,"$48,468.96",New York,142.37,5.0
+1503,Sara Malik,FEMALE,2020-10-14,31.0,"$31,282.02",Lahore,67.11,3.0
+1717,Maria Iqbal,Female,2024-03-13,32.0,"$20,546.54",,265.48,5.0
+1394,Zara Wilson,Male,2020-05-01,28.0,"$81,528.73",New York,14.53,4.0
+1344,Emma Brown,Female,22 May 2022,32.0,"$67,568.99",New York,345.82,4.0
+1118,Ayesha Farooq,Male,2022-11-22,64.0,"$56,246.05",New York,36.51,3.0
+1018,Hassan Ahmed,Female,2019-01-11,53.0,"$56,671.31",Islamabad,339.74,5.0
+1611,Maria Smith,F,26 Dec 2019,56.0,"$26,666.23",karachi,41.58,4.0
+1546,Emma Butt,Male,09-15-2019,60.0,"$71,569.90",new york,101.51,5.0
+1041,Omar Khan,Female,2023-01-18,49.0,"$69,605.89",Islamabad,23.08,2.0
+1700,John Wilson,Male,02-01-2022,36.0,"$23,556.50",karachi,229.44,4.0
+1370,Bilal Lopez,Male,19/11/2020,23.0,"$48,990.26",Karachi,5.35,
+1194,Omar Malik,Female,08-01-2023,42.0,"$56,154.47",Karachi,75.93,5.0
+1856,Emma Chen,Male,2019-09-13,55.0,"$59,726.63",LAHORE ,360.75,4.0
+1515,Zara Garcia,F,01-13-2021,69.0,"$53,590.01",Lahore,92.92,5.0
+1093,Fatima Smith,,2021-05-23,66.0,"$48,751.44",lahore,290.42,3.0
+1989,,Male,2021-09-11,71.0,"$73,424.33",Karachi,191.8,
+1256,Hassan Smith,male,19/08/2022,73.0,"$69,566.42",Islamabad,9.04,5.0
+1551,Sara Chen,Male,05/01/2022,71.0,"$69,276.83",London,53.23,
+1079,Noor Garcia,MALE,14 Nov 2020,42.0,"$81,489.53",london ,65.02,5.0
+2068,Wei Wilson,Male,24/06/2023,63.0,"$67,487.33",LAHORE ,21.0,5.0
+1915,David Chen,Male,05-10-2021,43.0,"$56,586.83",london ,96.55,5.0
+1867,Zara Khan,Male,2024-09-17,,"$44,156.72",london ,239.09,
+1879,Ali Iqbal,M,24/01/2024,43.0,"$76,274.91",Karachi,14483.61,4.0
+1359,Omar Farooq,,11 Aug 2021,29.0,"$59,377.04",Karachi,159.36,5.0
+1474,Noor Ahmed,Male,29/06/2021,26.0,"$53,573.25",LAHORE ,53.37,4.0
+1681,Fatima Khan,Male,19 Dec 2019,63.0,"$78,530.23",lahore,188.06,5.0
+1816,Noor Garcia,Female,04-29-2019,66.0,"$44,494.92",Karachi,339.79,
+1476,Hassan Wilson,male,2023-02-07,38.0,"$33,830.85",karachi,104.88,5.0
+1554,Maria Ahmed,FEMALE,16 Nov 2019,47.0,"$64,029.50",Islamabad,20.35,5.0
+1510,Wei Farooq,Male,31/03/2020,62.0,"$69,398.37",New York,104.51,5.0
+1686,David Smith,Male,27/05/2019,54.0,"$72,619.89",lahore,206.0,5.0
+1227,Ali Butt,Male,28/11/2024,70.0,"$57,759.87",New York,99.12,1.0
+1936,Hassan Smith,Female,18 Dec 2022,73.0,"$49,135.89",Lahore,14.98,4.0
+1382,John Garcia,F,11-28-2023,69.0,"$70,697.74",London,10.78,5.0
+1744,Emma Wilson,MALE,25 Sep 2023,36.0,"$66,461.84",LAHORE ,34.26,2.0
+1879,Ali Brown,Female,2020-07-24,0.0,"$52,559.01",lahore,80.77,3.0
+1482,Wei Khan,Male,26/07/2024,44.0,,LAHORE ,292.04,4.0
+1031,Zara Butt,Male,01/06/2019,55.0,"$64,422.96",london ,201.14,4.0
+1517,Ali Smith,Female,17/12/2021,36.0,"$47,439.38",Karachi,36.18,4.0
+1899,Bilal Farooq,Male,2020-12-06,37.0,"$75,669.27",karachi,95.11,1.0
+1062,John Chen,M,09-20-2023,35.0,"$81,189.84",lahore,1.5,4.0
+1781,,Male,08 Jan 2019,26.0,"$84,050.36",london ,184.31,3.0
+1965,Maria Garcia,female,04/04/2019,65.0,"$35,206.90",london ,137.27,1.0
+1417,James Ahmed,male,05/05/2024,56.0,"$89,457.46",Lahore,12.99,5.0
+1083,Omar Khan,Male,24/03/2024,,"$59,716.74",New York,140.52,5.0
+1251,Omar Smith,Male,17 Oct 2023,61.0,"$31,262.64",London,129.78,5.0
+1739,Hassan Farooq,Male,19/08/2019,52.0,"$55,479.55",London,10.6,4.0
+1145,John Butt,MALE,2022-03-06,74.0,"$60,349.22",new york,63.5,2.0
+1714,Wei Brown,Male,09-12-2019,58.0,"$45,039.00",Islamabad,100.9,2.0
+1779,John Smith,Female,2022-04-26,53.0,"$64,005.60",Lahore,253.79,2.0
+2047,,Male,,54.0,"$39,897.91",lahore,26.67,3.0
+1232,Omar Wilson,Male,06-10-2020,63.0,"$60,752.62",karachi,4.11,5.0
+2040,Sara Khan,Female,2020-11-18,34.0,"$51,517.12", Islamabad,38.02,5.0
+1403,Sara Garcia,Male,05-06-2020,56.0,"$69,600.74",new york,151.06,2.0
+1900,Bilal Iqbal,F,2020-06-19,,"$68,818.87",Islamabad,30.45,3.0
+1900,Ayesha Smith,Female,24/10/2019,56.0,"$46,538.76",London,123.85,5.0
+1807,Zara Malik,F,11-07-2021,69.0,"$54,562.19", Islamabad,91.83,
+1551,Bilal Brown,F,2020-04-10,52.0,"$16,396.69",london ,63.81,4.0
+1082,John Garcia,Male,05/11/2019,67.0,"$59,649.89",karachi,25.28,3.0
+1464,Wei Khan,F,12-11-2023,44.0,"$41,853.75",LAHORE ,222.37,4.0
+1952,Zara Ahmed,Female,10-02-2021,35.0,"$23,328.09",london ,319.43,4.0
+1942,David Iqbal,female,21/02/2022,27.0,"$64,102.22", Islamabad,96.95,4.0
+1979,Ali Butt,F,01-29-2024,65.0,"$56,344.19", Islamabad,309.52,4.0
+1115,John Khan,male,10/07/2023,30.0,"$57,092.76",new york,106.86,5.0
+1404,Ali Chen,F,13/11/2021,,"$43,406.03",lahore,45.88,4.0
+1903,Emma Lopez,Female,07/11/2019,74.0,"$64,180.95",new york,1.58,3.0
+1905,Bilal Smith,Male,2020-02-08,36.0,"$87,600.35",Karachi,37.81,4.0
+1167,Bilal Brown,Male,06-30-2019,49.0,"$55,075.43",Karachi,108.29,4.0
+1910,John Ahmed,male,29/05/2023,24.0,"$64,290.07",London,32.27,2.0
+1886,Zara Smith,Female,11/01/2024,40.0,"$45,628.46", Islamabad,62.74,5.0
+1614,Ayesha Farooq,Female,21 Jan 2023,52.0,"$45,077.54",karachi,0.07,5.0
+1324,James Lopez,Male,03-21-2023,63.0,"$62,949.38",Karachi,80.7,3.0
+1756,John Iqbal,Male,2022-08-21,59.0,"$59,725.38",LAHORE ,68.23,4.0
+2037,Ayesha Smith,Female,30 Aug 2019,20.0,"$55,912.41",New York,46.11,1.0
+1544,James Brown,Female,27 Jan 2024,58.0,"$60,533.09",New York,7.73,1.0
+1815,Wei Malik,Female,10-23-2020,49.0,"$34,774.70",karachi,286.17,3.0
+1564,David Farooq,F,13 Jan 2019,64.0,"$38,866.88",london ,70.57,4.0
+1885,Ali Lopez,FEMALE,12 Jan 2020,42.0,"$34,536.62", Islamabad,70.44,4.0
+1375,,Male,11-26-2024,42.0,"$83,767.27",lahore,12.45,1.0
+1385,Hassan Ahmed,Female,2021-07-28,,"$79,775.48",Lahore,226.01,5.0
+1121,Emma Brown,Female,01-08-2020,39.0,"$33,007.67",london ,94.64,
+1399,Bilal Iqbal,Male,13 Apr 2022,54.0,"$57,426.01",Lahore,11.23,5.0
+1806,Omar Lopez,Male,31 Jul 2023,59.0,"$29,994.45",london ,201.59,4.0
+1806,Hassan Malik,Female,,19.0,"$73,540.95",karachi,56.07,5.0
+1215,Ayesha Malik,Female,12-14-2022,43.0,"$57,742.41",,6.02,
+1688,Wei Chen,Female,24 Dec 2023,20.0,"$68,919.94",New York,139.96,5.0
+1294,Wei Garcia,FEMALE,2019-02-21,,"$33,490.57",lahore,42.5,5.0
+1253,Omar Butt,male,2022-01-30,53.0,"$45,443.94",LAHORE ,199.25,4.0
+1478,Hassan Malik,female,08/02/2021,60.0,"$34,308.08",new york,4.72,5.0
+1309,Hassan Chen,Male,2022-02-17,48.0,"$43,753.23",New York,6.18,3.0
+1765,James Brown,Female,18 May 2022,51.0,"$51,974.51",Islamabad,7319.43,3.0
+1891,Hassan Lopez,Female,2019-12-12,71.0,"$30,614.21",Islamabad,36.0,4.0
+1498,Maria Brown,Female,17/07/2019,62.0,"$46,329.41",LAHORE ,166.7,4.0
+1979,Ayesha Smith,male,11-07-2020,49.0,"$100,767.25", Islamabad,267.59,5.0
+1728,Maria Lopez,Female,13 Mar 2022,29.0,"$48,258.15",new york,14.8,5.0
+1437,Emma Iqbal,MALE,2023-05-17,46.0,"$69,253.77",new york,12.21,4.0
+1529,Sara Lopez,Female,2023-02-20,,"$33,306.20",Lahore,297.29,4.0
+2001,Zara Chen,Female,13 Jul 2021,73.0,"$54,753.08",new york,141.08,3.0
+1620,Wei Lopez,male,10/02/2019,29.0,"$48,258.40",lahore,8.87,4.0
+1218,Omar Lopez,Male,29 Nov 2022,54.0,"$36,426.57",Islamabad,65.46,2.0
+1183,John Farooq,Female,28 Jan 2021,26.0,"$61,914.83",Karachi,93.93,5.0
+1925,Emma Brown,male,23/08/2024,59.0,"$102,194.35",London,13.52,5.0
+1180,Omar Chen,Male,09 Oct 2021,72.0,"$41,753.29",new york,44.05,5.0
+1230,Ayesha Iqbal,FEMALE,2020-01-10,22.0,"$61,336.43",London,18.55,4.0
+1062,Omar Chen,Male,19 Jun 2019,39.0,"$17,792.07",London,21.26,5.0
+1048,Zara Malik,Female,2023-06-02,46.0,"$58,362.87",london ,57.7,5.0
+1966,Hassan Iqbal,Female,02-14-2020,26.0,,Lahore,15.18,4.0
+1784,Hassan Butt,MALE,07 Aug 2023,74.0,"$39,775.11",,2.72,4.0
+1574,Ayesha Khan,Female,2022-01-26,67.0,"$38,051.13",karachi,276.7,
+1711,Wei Ahmed,Male,2022-05-05,33.0,"$60,194.47",LAHORE ,315.19,3.0
+1236,Ali Malik,Female,08-15-2024,28.0,"$63,375.50",karachi,82.9,5.0
+1128,Sara Garcia,Male,26/11/2022,65.0,"$49,178.63",Islamabad,30.31,3.0
+1463,Omar Chen,male,05-12-2021,22.0,"$80,896.92",new york,81.13,4.0
+1172,Ayesha Wilson,Female,10-15-2023,56.0,"$77,325.50",London,74.79,
+2028,David Malik,Female,25/05/2022,69.0,"$59,447.90",Islamabad,90.68,
+1090,Hassan Garcia,Male,17 Jan 2022,36.0,"$12,000.00",Lahore,268.12,4.0
+2044,Zara Malik,Female,20 Dec 2024,29.0,"$51,887.02",Islamabad,35.92,4.0
+1498,Ayesha Farooq,Male,05-24-2023,35.0,"$59,662.71",lahore,60.55,1.0
+2025,Wei Iqbal,M,11-22-2019,210.0,"$70,240.48",London,77.23,
+1706,Zara Chen,Male,09-30-2024,42.0,"$52,327.51", Islamabad,2.42,4.0
+1674,John Smith,FEMALE,2019-05-08,41.0,"$48,633.34",Islamabad,116.6,
+1664,Maria Lopez,Female,12-05-2023,67.0,"$49,962.31",London,29.47,
+1671,Wei Brown,FEMALE,2024-03-30,72.0,"$39,165.23",Karachi,92.22,4.0
+1286,David Wilson,F,2022-03-30,49.0,"$84,692.74",Islamabad,147.99,4.0
+1739,Ayesha Smith,Male,05-09-2022,62.0,"$76,155.24",Islamabad,47.8,5.0
+2009,Ayesha Smith,FEMALE,08-22-2019,31.0,"$14,412.01",london ,31.08,5.0
+1311,Ayesha Chen,Male,21/01/2021,56.0,"$63,338.22",Karachi,302.04,4.0
+1893,Hassan Wilson,Male,29 Jun 2023,44.0,"$91,409.70",new york,140.31,5.0
+1225,Emma Chen,M,03-29-2019,52.0,"$60,443.08",london ,99.19,5.0
+1039,Zara Khan,Female,2022-06-11,56.0,"$69,446.20",london ,23.34,4.0
+1213,Wei Iqbal,Female,12-04-2023,39.0,"$65,848.81",lahore,56.78,3.0
+1887,Fatima Butt,female,2019-06-08,51.0,"$42,192.28",lahore,193.44,5.0
+1758,Hassan Khan,Male,01-23-2022,68.0,"$57,767.73",Lahore,2.46,5.0
+1609,David Garcia,M,04 Oct 2022,41.0,"$28,563.49",,182.63,2.0
+1650,Zara Butt,Male,08/04/2023,72.0,"$44,602.86",London,169.06,3.0
+1690,Wei Iqbal,Male,09 Dec 2024,54.0,"$66,808.87",lahore,86.48,5.0
+1209,,Female,08-28-2024,62.0,"$62,492.31",new york,163.26,5.0
+1264,Emma Ahmed,Male,23 May 2022,60.0,"$65,771.11",new york,55.89,5.0
+1062,Bilal Garcia,M,2022-10-22,57.0,"$78,424.23",LAHORE ,54.7,5.0
+1132,James Khan,Male,2019-08-26,53.0,"$37,219.40",New York,17.16,5.0
+1745,Ali Brown,female,20/12/2023,47.0,"$78,500.99",Islamabad,13.07,5.0
+1269,James Smith,Female,02-04-2024,43.0,"$95,728.98",lahore,10.45,4.0
+1992,Maria Ahmed,Male,05-08-2020,71.0,"$52,425.67", Islamabad,16.05,2.0
+1817,Sara Malik,Male,2020-08-20,33.0,"$66,724.25",Islamabad,64.38,4.0
+1974,David Malik,Male,11-12-2023,70.0,"$50,933.40",new york,56.6,5.0
+1224,Ali Wilson,F,2024-02-22,37.0,"$36,609.77",Lahore,31.26,3.0
+1270,David Chen,Female,2021-03-29,65.0,"$47,058.37",new york,65.57,
+1710,Ali Wilson,F,2023-12-16,40.0,"$38,432.83",Lahore,39.41,5.0
+1401,Ali Malik,Female,2024-11-13,58.0,"$86,005.65",London,53.48,5.0
+1754,Bilal Khan,F,12-07-2023,48.0,"$84,554.08",London,261.79,3.0
+1160,Wei Garcia,Female,07-21-2022,23.0,,london ,323.13,5.0
+1683,David Chen,Female,06-11-2023,62.0,"$64,101.88",Lahore,40.66,5.0
+1140,Bilal Wilson,Male,10-11-2019,52.0,"$73,628.75",Lahore,56.23,4.0
+1257,Ayesha Iqbal,MALE,30 Dec 2020,30.0,"$80,729.31", Islamabad,552.18,5.0
+1621,Zara Garcia,Female,06/09/2022,62.0,"$42,683.43",karachi,194.66,1.0
+2020,John Malik,Female,12/05/2024,39.0,"$73,799.66",lahore,0.89,
+1397,Bilal Khan,male,2023-11-23,24.0,"$70,763.57",LAHORE ,34.36,5.0
+1004,Bilal Brown,Female,24 Mar 2021,29.0,"$18,902.85",new york,6.93,5.0
+1291,Sara Smith,FEMALE,02-24-2019,30.0,"$30,330.63",LAHORE ,137.55,4.0
+1212,Wei Ahmed,Female,06 Nov 2023,53.0,"$51,307.91",new york,14.92,4.0
+2045,David Iqbal,Female,11/12/2020,51.0,"$76,625.48",London,19.77,4.0
+1017,Omar Farooq,female,2022-08-10,29.0,"$49,182.78",new york,28.33,4.0
+2066,Maria Chen,Female,09 Jan 2023,73.0,"$78,258.04",Karachi,53.22,
+1052,Sara Smith,Female,21 Dec 2019,42.0,"$83,075.05",Lahore,89.05,5.0
+1526,Maria Lopez,Female,16/12/2024,44.0,"$67,273.53",new york,347.37,4.0
+1650,Noor Garcia,MALE,2024-07-15,33.0,"$62,818.38",Islamabad,11.57,5.0
+1341,Wei Butt,F,20/10/2024,63.0,"$72,926.34",karachi,25.78,
+2068,Omar Iqbal,female,06-18-2024,70.0,"$46,228.58",lahore,153.51,3.0
+1601,Bilal Farooq,,13/09/2021,32.0,"$22,675.88",Karachi,105.15,3.0
+1494,Bilal Iqbal,Female,2019-11-24,32.0,"$57,811.64",Lahore,5.96,4.0
+1137,Zara Ahmed,Female,25 Dec 2024,50.0,"$73,226.90",london ,8.68,4.0
+1544,Emma Lopez,M,22/05/2023,24.0,"$48,598.73",Islamabad,27.55,3.0
+1666,Zara Khan,MALE,06-20-2024,71.0,"$51,804.06",New York,212.61,4.0
+1523,Bilal Garcia,Male,18/06/2022,24.0,"$36,443.35", Islamabad,117.27,4.0
+1669,Ayesha Ahmed,Female,01-19-2019,49.0,"$45,367.02",new york,149.08,2.0
+1438,Maria Iqbal,FEMALE,10-08-2020,41.0,"$24,329.00",karachi,2.11,4.0
+1906,Zara Wilson,,03/05/2019,59.0,"$71,704.40",london ,35.89,5.0
+2011,Noor Butt,Male,2024-05-11,30.0,"$59,356.15", Islamabad,42.36,4.0
+1113,Wei Iqbal,Female,17 Jan 2020,44.0,"$26,841.56",london ,71.45,5.0
+1518,Maria Butt,Male,22 Sep 2019,67.0,"$61,662.47",new york,131.48,5.0
+1205,Emma Garcia,Female,05-07-2021,63.0,"$71,760.62",lahore,113.24,4.0
+1875,Zara Smith,MALE,07-21-2024,70.0,"$47,104.53",london ,27.19,3.0
+1253,David Khan,,06-26-2023,48.0,"$55,210.07",new york,53.88,3.0
+2044,John Farooq,Female,21 Dec 2024,44.0,"$54,747.45",karachi,31.8,4.0
+1833,David Wilson,Male,2023-07-12,23.0,"$21,518.58",New York,29.5,5.0
+1897,Wei Chen,F,14/04/2023,18.0,"$57,925.69",lahore,45.57,4.0
+1977,Emma Malik,Female,2019-06-18,50.0,"$12,000.00",LAHORE ,11.39,4.0
+1556,Omar Smith,Female,2023-09-29,32.0,"$80,074.49", Islamabad,41.28,5.0
+1924,David Iqbal,Female,27 Jan 2020,67.0,"$42,808.96",new york,88.51,4.0
+1061,David Iqbal,female,18 Oct 2020,50.0,"$49,060.24", Islamabad,20.17,
+1688,Ayesha Khan,Female,2022-10-07,48.0,"$15,391.50",Islamabad,216.13,4.0
+1286,Sara Butt,F,26 May 2023,38.0,"$79,744.65",LAHORE ,60.87,3.0
+1357,Wei Farooq,Female,23/12/2019,58.0,"$61,112.14",Karachi,6.34,1.0
+1806,Ali Butt,male,,59.0,"$56,329.33",Islamabad,53.21,4.0
+1217,James Farooq,Female,29/05/2024,39.0,"$62,284.02",london ,170.1,4.0
+1087,John Farooq,MALE,21 Feb 2021,54.0,"$26,569.11",London,287.57,4.0
+1470,Ali Farooq,Female,10-25-2021,48.0,"$44,874.11",Lahore,410.07,3.0
+1067,Fatima Farooq,Male,01 Sep 2022,43.0,"$23,911.37",london ,169.92,5.0
+1322,Maria Chen,Male,27/04/2021,64.0,"$45,855.28",New York,52.88,3.0
+1410,John Lopez,Male,2020-10-19,53.0,"$69,746.42", Islamabad,143.52,3.0
+1035,Maria Khan,Male,18/12/2024,51.0,"$49,856.68",lahore,13.11,5.0
+1330,Zara Farooq,MALE,09-16-2024,,"$50,173.98",Lahore,88.2,5.0
+1859,Emma Garcia,Female,2023-01-07,51.0,"$68,390.17",Islamabad,54.05,5.0
+1830,John Smith,female,08-21-2024,37.0,"$42,203.36",Karachi,135.15,5.0
+1366,Fatima Iqbal,F,04 Dec 2020,38.0,"$57,622.56",LAHORE ,185.66,2.0
+1279,James Wilson,male,10/12/2019,28.0,"$70,521.82",karachi,68.06,5.0
+1329,Emma Brown,Male,12 Dec 2024,37.0,"$66,288.01",Islamabad,76.16,
+1061,Ali Chen,MALE,07/05/2023,63.0,"$52,521.13",london ,82.54,3.0
+1233,James Lopez,Male,07 Jun 2019,62.0,"$54,256.07",Lahore,48.84,
+1756,Ali Lopez,Male,2019-03-04,21.0,"$22,785.24",London,269.2,5.0
+1002,Bilal Wilson,FEMALE,12-30-2019,19.0,, Islamabad,158.55,4.0
+1667,Fatima Malik,female,12 Aug 2024,72.0,"$54,135.10",lahore,4.42,2.0
+1468,Zara Wilson,male,2023-08-29,69.0,"$59,415.33",LAHORE ,39.98,5.0
+1778,Hassan Butt,Male,07-28-2024,22.0,"$66,772.20",London,405.91,
+2037,David Lopez,Male,2020-09-26,25.0,"$44,767.04",lahore,61.97,5.0
+1277,Omar Chen,Male,13 Mar 2021,61.0,"$58,041.96",london ,60.99,5.0
+1242,Fatima Farooq,Male,31/12/2020,55.0,"$30,785.11", Islamabad,211.45,4.0
+1456,Sara Smith,F,2019-03-24,,"$42,801.81",London,33.39,3.0
+2051,James Garcia,Male,25/08/2022,57.0,"$39,378.56",karachi,12.46,2.0
+1093,Ali Butt,Male,20/03/2024,58.0,"$30,950.12", Islamabad,78.72,4.0
+2046,David Farooq,M,2021-09-21,51.0,"$58,354.25",LAHORE ,335.92,3.0
+1080,Ali Iqbal,Female,31/07/2019,23.0,"$49,980.35",,70.35,
+1478,,Male,12 Apr 2023,57.0,"$78,035.28",New York,24.94,2.0
+1489,James Garcia,Male,2024-04-24,29.0,"$57,589.26",new york,41.14,1.0
+1551,Omar Wilson,MALE,01-01-2019,63.0,"$62,847.97",Islamabad,141.44,3.0
+1138,Ali Malik,Male,2022-07-23,51.0,"$49,347.74",Islamabad,75.75,5.0
+1466,John Garcia,,20/10/2022,32.0,"$45,186.23",New York,354.89,4.0
+1258,Maria Khan,Male,2021-07-19,51.0,"$91,951.53",london ,262.22,1.0
+1771,James Garcia,Male,10/08/2023,31.0,"$65,325.37",Karachi,110.29,5.0
+1750,Sara Butt,Male,27/09/2022,55.0,"$53,106.15", Islamabad,7.01,4.0
+1104,Ayesha Iqbal,FEMALE,2022-02-03,41.0,"$78,447.19",new york,162.66,5.0
+1172,Omar Garcia,Female,2021-12-08,74.0,"$58,391.50",karachi,32.04,5.0
+1867,Bilal Iqbal,Male,04 Jul 2019,64.0,"$38,135.26",Lahore,44.06,4.0
+1799,James Khan,F,05-21-2021,38.0,,new york,255.59,4.0
+1782,Wei Lopez,Female,03-13-2019,68.0,"$48,010.01",london ,61.56,
+1720,Omar Brown,Female,10/08/2021,65.0,"$48,924.79",Lahore,24.93,4.0
+1126,Ayesha Smith,F,26 Feb 2021,20.0,"$69,564.47",lahore,49.01,4.0
+1982,Emma Khan,Female,01-30-2019,44.0,"$68,790.64", Islamabad,122.85,4.0
+1940,Emma Khan,Male,09-22-2023,37.0,"$16,845.07",LAHORE ,9.49,5.0
+1605,Omar Farooq,Female,19 Feb 2021,41.0,"$57,614.61",LAHORE ,108.6,4.0
+1161,Noor Brown,F,05/04/2021,72.0,"$52,504.19", Islamabad,13.36,4.0
+1263,Bilal Brown,Female,04-06-2023,26.0,"$84,359.90",LAHORE ,361.27,1.0
+2033,Wei Smith,FEMALE,09-28-2019,36.0,"$60,119.62",lahore,12.03,5.0
+1658,John Farooq,Male,10/06/2021,52.0,"$60,199.37",London,387.57,5.0
+1888,David Ahmed,Male,20/11/2019,73.0,"$35,202.50",Islamabad,211.93,5.0
+1390,John Ahmed,MALE,09-06-2019,51.0,"$12,000.00",New York,104.43,
+1127,Zara Wilson,Male,09-05-2020,50.0,"$63,424.33",Karachi,136.8,4.0
+1842,Sara Malik,Female,06 Jul 2024,69.0,"$52,975.95",karachi,9.55,2.0
+1594,Noor Brown,male,04/08/2019,48.0,"$36,881.37",Islamabad,69.61,
+1000,John Brown,Female,05/02/2022,36.0,"$42,492.25",karachi,147.98,2.0
+1024,Wei Butt,Female,2022-10-06,62.0,"$44,035.19",,85.23,5.0
+2067,John Wilson,female,04 Oct 2024,-5.0,"$56,948.79",london ,67.11,5.0
+1070,Ayesha Smith,Female,27 Jun 2022,67.0,"$12,000.00",Islamabad,112.22,4.0
+1476,Ali Lopez,Male,27 Apr 2019,62.0,"$51,512.37",lahore,5.29,4.0
+1900,Maria Khan,Male,10-14-2021,29.0,"$23,731.45",New York,95.54,4.0
+1339,Ayesha Malik,,11 Mar 2022,34.0,"$44,639.04",Lahore,2.25,3.0
+1835,Ayesha Brown,Male,24 Jul 2019,24.0,"$45,446.40",Karachi,237.84,5.0
+1716,Fatima Ahmed,Female,17 Dec 2019,38.0,"$17,511.32",karachi,222.85,5.0
+1498,Fatima Brown,Male,11-17-2024,51.0,"$50,819.16",new york,53.71,5.0
+1901,Ayesha Khan,Male,12-19-2020,72.0,"$13,152.67",karachi,118.13,5.0
+1150,Fatima Malik,M,11 May 2022,53.0,"$62,940.78",LAHORE ,333.0,3.0
+1586,Wei Farooq,Female,28/02/2024,73.0,"$33,058.58",,179.31,3.0
+1893,Emma Farooq,Male,25 Sep 2022,27.0,"$71,484.38", Islamabad,175.11,4.0
+1386,Omar Butt,Male,11/10/2022,56.0,"$80,144.28",,73.04,4.0
+1418,Wei Chen,F,01/09/2024,31.0,"$32,902.77",lahore,39.17,4.0
+1487,Sara Malik,M,20/06/2023,24.0,"$50,898.59", Islamabad,382.59,5.0
+1130,James Wilson,Female,03-16-2019,20.0,"$91,935.93",New York,188.59,5.0
+1788,David Butt,MALE,2020-01-21,61.0,"$70,628.18",LAHORE ,25.31,4.0
+1153,Fatima Malik,Female,12-06-2019,74.0,"$65,940.11",Karachi,152.77,1.0
+1414,Maria Wilson,Female,15 Aug 2019,47.0,"$58,208.90",karachi,7.75,
+1621,David Farooq,MALE,2020-10-16,45.0,"$70,186.65",london ,238.44,4.0
+1971,Ali Wilson,female,10-05-2019,49.0,"$71,684.88",Karachi,107.26,4.0
+1818,Maria Lopez,Female,2020-06-26,38.0,"$40,308.94",London,259.98,4.0
+1966,David Garcia,Male,31/10/2024,41.0,"$75,479.30",karachi,87.33,3.0
+1235,Noor Smith,F,2024-05-25,45.0,"$51,430.23",New York,1048.73,5.0
+1511,Ayesha Ahmed,M,03-25-2020,50.0,"$70,967.46",london ,68.42,
+1763,James Wilson,Female,2019-01-10,62.0,"$49,475.84",New York,72.42,2.0
+1867,Maria Farooq,M,07/12/2024,42.0,"$58,337.92",Lahore,596.19,4.0
+1749,Omar Brown,Female,03-26-2019,22.0,"$62,930.92",lahore,196.95,5.0
+1453,Emma Garcia,Male,2020-07-04,74.0,"$24,654.96",London,5.91,3.0
+1944,Fatima Farooq,Male,08 Mar 2022,65.0,"$83,948.51",Karachi,57.42,4.0
+1871,Ayesha Farooq,Male,29/04/2021,31.0,"$62,483.41", Islamabad,3.32,2.0
+1072,Zara Brown,Male,2021-01-19,70.0,"$52,634.31",LAHORE ,56.82,5.0
+1225,Ali Brown,Male,03-19-2024,59.0,"$67,347.56",Lahore,29.02,4.0
+1560,Wei Iqbal,female,08-27-2023,25.0,"$65,032.94",London,59.07,4.0
+1778,James Garcia,female,22 Jan 2024,29.0,"$60,569.00",London,8.11,5.0
+1115,Wei Lopez,FEMALE,25 Jul 2022,,"$94,204.56",lahore,194.77,
+1911,Omar Iqbal,Male,2022-07-26,33.0,"$45,611.31",LAHORE ,18.63,
+1485,Sara Iqbal,M,09/05/2023,57.0,"$46,436.94", Islamabad,62.57,1.0
+1126,Ayesha Butt,male,,54.0,"$55,740.92",Karachi,47.05,4.0
+1243,Bilal Iqbal,Female,2023-03-10,59.0,"$59,048.44",london ,177.94,5.0
+1124,Fatima Chen,male,08-14-2023,40.0,"$59,327.76",london ,43.04,2.0
+2000,Emma Chen,,2022-11-04,71.0,"$49,297.60",london ,144.8,3.0
+1749,David Ahmed,Male,21/09/2022,27.0,"$55,059.32", Islamabad,6.66,
+1415,Bilal Butt,female,06/04/2024,42.0,"$55,294.51",,2.83,4.0
+1711,Wei Ahmed,Male,2022-05-05,33.0,"$60,194.47",LAHORE ,315.19,3.0
+1689,Noor Smith,Female,06 Feb 2021,26.0,"$59,192.18",Lahore,39.46,4.0
+1609,Ayesha Lopez,Male,31/01/2023,23.0,"$68,480.63",lahore,170.11,4.0
+1472,Ali Lopez,Male,27 Feb 2023,44.0,"$53,268.52",LAHORE ,67.04,5.0
+1270,Sara Butt,F,11-14-2023,38.0,"$41,008.34",London,20.97,5.0
+1586,Sara Farooq,Male,2021-04-15,30.0,"$28,529.82",lahore,36.39,3.0
+2023,Noor Lopez,female,07-22-2019,34.0,"$53,522.85",london ,141.66,5.0
+1111,Sara Iqbal,Female,01 Jan 2023,50.0,"$52,976.74",Karachi,579.98,4.0
+1236,Hassan Wilson,Female,2024-05-18,63.0,"$77,779.57",Islamabad,119.97,2.0
+1096,Ali Butt,Male,11-27-2021,68.0,,LAHORE ,44.55,1.0
+2047,James Smith,Male,2024-02-29,53.0,"$36,532.41",LAHORE ,56.16,5.0
+2077,Noor Ahmed,Male,07-06-2019,22.0,"$81,285.29",Islamabad,23.62,5.0
+1168,Sara Lopez,FEMALE,09/04/2021,36.0,"$38,335.07",london ,156.65,4.0
+1086,Sara Butt,Female,12-13-2023,25.0,"$47,188.06",new york,42.05,4.0
+1852,Bilal Lopez,Female,06/05/2023,55.0,"$84,275.83",Lahore,23.24,4.0
+1413,David Butt,Male,2024-07-01,46.0,"$68,104.89",LAHORE ,31.13,
+1844,Bilal Khan,female,10-07-2024,55.0,"$56,034.73",karachi,23.13,4.0
+2016,Emma Wilson,Male,02/04/2022,32.0,"$90,145.36",Karachi,42.87,4.0
+1353,David Chen,Female,14 Sep 2022,28.0,"$40,790.13",New York,105.8,4.0
+2071,Sara Brown,Male,06-19-2023,19.0,"$87,059.62", Islamabad,69.44,4.0
+1735,Ali Butt,M,2019-05-05,23.0,"$27,966.51",Karachi,39.06,5.0
+1951,Ayesha Farooq,Female,2022-01-01,34.0,"$65,281.74",Lahore,56.75,
+1312,Hassan Smith,Female,10-18-2024,43.0,"$36,171.30",LAHORE ,228.86,5.0
+1589,Hassan Garcia,Male,15 Dec 2021,51.0,"$40,474.93",LAHORE ,34.78,5.0
+1572,Fatima Farooq,Female,14 Jul 2022,18.0,"$15,954.96",Karachi,152.88,4.0
+1401,Hassan Garcia,,2024-05-01,30.0,"$39,780.58",lahore,167.92,4.0
+1540,Omar Chen,Female,2020-04-05,66.0,"$53,754.54",Islamabad,49.44,
+1707,Ali Farooq,male,18/10/2022,40.0,"$42,858.38",lahore,132.02,4.0
+1977,John Lopez,Female,2022-08-14,65.0,"$47,869.65", Islamabad,150.07,4.0
+1631,Ayesha Brown,male,02/09/2019,43.0,"$63,052.89", Islamabad,94.52,5.0
+1131,Bilal Malik,Female,01-12-2022,26.0,"$49,757.02",London,312.62,2.0
+1856,James Chen,Male,02-16-2023,50.0,"$55,058.20",Lahore,54.94,5.0
+1830,Sara Butt,M,11-20-2024,,"$55,326.90",london ,22.63,4.0
+1653,Sara Iqbal,MALE,08-21-2019,29.0,"$51,966.06", Islamabad,3.88,3.0
+1236,Ali Malik,Female,08-15-2024,28.0,"$63,375.50",karachi,82.9,5.0
+1295,David Iqbal,Female,01-14-2023,56.0,"$55,975.95",Islamabad,244.8,1.0
+1179,Fatima Ahmed,female,09 Mar 2020,31.0,"$40,790.24",lahore,16.76,2.0
+1389,Bilal Wilson,Male,08-04-2024,30.0,"$62,138.86",London,191.05,5.0
+1442,John Iqbal,male,15 Nov 2022,21.0,"$39,964.05",LAHORE ,58.92,5.0
+1700,Noor Butt,Female,01 Apr 2023,46.0,,karachi,66.14,4.0
+1352,Fatima Wilson,MALE,23 Feb 2023,22.0,"$59,826.72",Lahore,56.16,2.0
+1318,Fatima Wilson,female,04-11-2019,40.0,"$58,651.07",london ,136.37,
+1243,James Wilson,Male,10-24-2023,40.0,"$51,986.19",LAHORE ,90.8,4.0
+1411,James Wilson,MALE,11/07/2019,23.0,"$38,087.78",Lahore,105.68,4.0
+1426,Omar Butt,female,10-25-2019,61.0,"$57,182.97", Islamabad,6.02,2.0
+1165,Ali Malik,female,12-03-2022,21.0,"$57,730.69", Islamabad,110.95,4.0
+1304,Maria Chen,FEMALE,15/03/2024,19.0,"$45,336.35",new york,227.8,5.0
+1721,Sara Lopez,F,02-06-2022,,"$50,107.08",London,99.72,5.0
+1791,Zara Garcia,M,2024-06-16,28.0,"$60,079.37",lahore,65.04,3.0
+1633,John Smith,Male,2024-01-16,54.0,"$80,122.05",New York,7.37,5.0
+1163,Hassan Malik,,2022-09-17,73.0,"$53,140.69",new york,74.52,5.0
+1052,Bilal Smith,Male,04 Aug 2021,,"$53,014.40",london ,61.94,5.0
+1822,John Farooq,MALE,2023-09-01,74.0,"$33,740.66",Islamabad,24.78,3.0
+1541,Ayesha Garcia,MALE,2024-07-17,74.0,"$74,027.96",LAHORE ,80.96,5.0
+1854,Hassan Brown,Female,06/11/2024,58.0,"$70,894.38",LAHORE ,217.1,4.0
+1364,John Khan,FEMALE,,19.0,"$33,046.87",lahore,64.17,4.0
+1634,Maria Farooq,MALE,19 Sep 2021,71.0,"$62,780.53",London,143.25,4.0
+1055,Emma Smith,MALE,13/10/2022,34.0,"$34,071.17",New York,63.26,5.0
+1033,David Malik,M,12-25-2021,63.0,"$66,874.90", Islamabad,0.87,
+1615,Fatima Malik,Female,12-25-2022,59.0,"$62,467.45",karachi,65.12,5.0
+1703,Ali Iqbal,F,08-05-2023,61.0,"$41,091.47",London,44.56,3.0
+1336,Bilal Lopez,Male,11 Jan 2021,28.0,"$24,718.17",London,381.17,5.0
+1825,Wei Lopez,female,09/05/2024,69.0,"$76,219.27",london ,95.21,5.0
+1308,David Malik,Female,29/06/2019,20.0,"$101,823.36",Karachi,142.09,1.0
+1935,Zara Malik,Male,26/03/2021,61.0,"$16,241.50", Islamabad,160.9,5.0
+1252,Bilal Chen,MALE,2021-05-25,,"$50,607.05",lahore,106.7,2.0
+1758,Zara Garcia,Male,09 Dec 2022,35.0,"$49,546.10", Islamabad,104.1,2.0
+1885,Wei Smith,Female,29/05/2022,64.0,"$77,748.41",karachi,196.36,5.0
+1046,Maria Malik,Female,30/07/2024,63.0,"$63,304.26", Islamabad,45.31,4.0
+1659,Ayesha Wilson,Male,2020-04-21,64.0,"$66,448.36",New York,177.56,2.0
+1172,Hassan Garcia,Female,21 Jun 2020,72.0,"$68,587.08",london ,20.98,4.0
+1995,Fatima Brown,Female,2023-01-11,29.0,"$66,605.73",Lahore,14023.79,5.0
+1428,Bilal Smith,male,06-22-2023,19.0,,Lahore,120.56,5.0
+1429,Emma Khan,Male,27/02/2022,71.0,"$68,796.98",Islamabad,123.8,
+1001,Omar Malik,Male,12-26-2021,65.0,"$22,860.24",Karachi,234.26,4.0
+1796,Zara Butt,female,18 Oct 2019,27.0,"$46,795.57",LAHORE ,32.26,4.0
+1992,Noor Butt,MALE,09 Jun 2022,33.0,"$44,996.06", Islamabad,148.42,4.0
+1904,Zara Khan,female,2020-08-31,30.0,"$53,614.64",Islamabad,20.44,4.0
+1919,Wei Butt,,24 May 2020,58.0,"$26,323.05",LAHORE ,7.74,5.0
+1130,James Malik,Female,03 Oct 2019,37.0,"$64,946.13",Karachi,142.8,2.0
+1391,Ali Chen,FEMALE,08-31-2021,60.0,"$34,675.78",Lahore,282.2,5.0
+1537,Zara Lopez,Male,28 Mar 2024,48.0,"$44,872.93",New York,136.31,4.0
+1335,Noor Butt,Female,26/01/2019,38.0,"$42,470.53",LAHORE ,66.33,4.0
+1473,Fatima Smith,Female,31/03/2022,39.0,,London,23.83,5.0
+1668,Wei Chen,Female,12-17-2020,37.0,"$76,576.19",karachi,40.93,5.0
+1915,Sara Khan,Female,02-10-2021,39.0,"$48,255.73",new york,99.59,4.0
+2078,James Farooq,Male,04-11-2024,43.0,"$92,930.09",New York,51.96,5.0
+1572,Bilal Farooq,male,01-02-2024,21.0,"$68,057.99",LAHORE ,21.62,4.0
+1011,Zara Malik,M,05/09/2023,63.0,"$52,325.65",LAHORE ,82.66,3.0
+1255,Ayesha Khan,Female,12-01-2022,23.0,"$52,006.11",london ,76.83,5.0
+1118,,Female,07 Mar 2020,22.0,"$75,402.87",Islamabad,18.33,4.0
+1622,Bilal Farooq,M,2021-05-01,,"$48,618.57",Islamabad,98.09,5.0
+1088,Sara Garcia,Female,2020-06-15,23.0,"$66,783.76",LAHORE ,85.28,5.0
+1276,Emma Malik,F,01/03/2020,26.0,"$21,304.16",London,3.23,5.0
+1964,Zara Farooq,Male,05 Jul 2023,42.0,"$52,071.92",Islamabad,759.1,4.0
+1415,John Smith,male,17 Jan 2021,51.0,"$47,176.59",LAHORE ,49.9,4.0
+1231,John Butt,M,2023-06-13,65.0,"$46,168.55",Karachi,63.97,5.0
+1554,Ali Butt,,05/08/2020,41.0,"$73,727.74",London,1.67,5.0
+1995,Ayesha Wilson,Female,10-02-2023,31.0,"$70,129.04",LAHORE ,210.67,5.0
+1631,Sara Garcia,Female,23 Apr 2023,21.0,"$27,072.54",new york,257.11,1.0
+1257,Zara Brown,Female,14/05/2022,19.0,"$14,634.20",New York,345.85,4.0
+1627,Zara Ahmed,male,2022-05-31,19.0,"$32,374.25",new york,226.39,4.0
+1164,Hassan Wilson,male,2022-05-16,56.0,"$64,770.85",Islamabad,202.97,3.0
+1610,Sara Malik,FEMALE,18 Apr 2019,45.0,"$88,743.83",lahore,131.34,4.0
+1693,Omar Lopez,Female,2023-10-19,46.0,"$80,935.26",LAHORE ,34.39,4.0
+1188,Ayesha Wilson,Male,03-10-2022,38.0,"$80,313.66",Lahore,453.34,4.0
+2066,John Ahmed,MALE,22/04/2021,35.0,"$55,651.82",karachi,362.58,
+1140,Hassan Smith,MALE,05-22-2024,30.0,"$69,849.92", Islamabad,129.9,4.0
+1506,Emma Farooq,Female,2021-09-02,62.0,"$20,058.26",,106.06,5.0
+1727,David Brown,Female,11/02/2024,29.0,"$41,549.11",LAHORE ,151.73,2.0
+1102,David Garcia,Female,30/04/2022,,"$58,760.79",london ,418.51,3.0
+1466,Fatima Farooq,Female,14/06/2024,71.0,"$58,740.14",lahore,199.71,4.0
+1032,John Brown,Female,02/01/2021,40.0,"$75,812.28",London,200.77,4.0
+1093,Fatima Chen,M,17 Mar 2023,45.0,"$54,305.05",london ,86.85,1.0
+1946,Fatima Khan,FEMALE,2020-11-08,51.0,"$66,185.09",LAHORE ,58.84,5.0
+1257,Ayesha Iqbal,MALE,30 Dec 2020,30.0,"$80,729.31", Islamabad,552.18,5.0
+1215,John Iqbal,FEMALE,16/05/2021,67.0,"$43,715.89",,18.75,4.0
+1926,James Malik,Male,14/09/2023,43.0,"$85,684.79",Lahore,45.53,
+1144,Zara Malik,Male,26/10/2022,40.0,"$93,630.75",new york,458.95,4.0
+1597,Ali Farooq,FEMALE,2019-03-09,31.0,"$82,595.47",karachi,21.11,
+1426,Maria Farooq,Male,12/12/2021,30.0,"$57,639.24",karachi,27.04,3.0
+2027,Maria Ahmed,F,13 Jan 2024,46.0,"$74,901.50",Islamabad,20.73,2.0
+1898,David Lopez,Female,2019-07-13,67.0,"$49,169.10",london ,8.49,5.0
+1493,Maria Chen,female,11 Aug 2020,35.0,"$34,728.75",lahore,46.36,5.0
+1789,Wei Butt,,03 Oct 2020,67.0,"$62,155.98",London,41.94,4.0
+1717,Hassan Ahmed,Female,2020-10-12,41.0,"$17,455.09", Islamabad,5.01,4.0
+1877,Omar Farooq,Male,03 Apr 2020,59.0,"$47,329.99",lahore,3.23,4.0
+1510,Ayesha Ahmed,Female,16 Sep 2022,58.0,"$52,586.36", Islamabad,29.65,5.0
+1820,Sara Smith,Female,2020-12-13,28.0,"$82,502.25",Islamabad,46.82,5.0
+1409,Bilal Garcia,F,20 Mar 2021,24.0,"$67,167.61",Islamabad,92.38,3.0
+1198,Ali Malik,Female,03-06-2024,54.0,"$48,038.08",New York,141.05,4.0
+1368,John Iqbal,Male,28 Jan 2020,63.0,"$78,595.00",london ,35.89,3.0
+1532,Zara Chen,MALE,09/09/2020,43.0,"$57,053.15",LAHORE ,65.94,5.0
+1228,Ayesha Garcia,FEMALE,13/04/2019,61.0,"$56,545.32",London,152.71,
+2052,Ali Wilson,Female,2022-02-28,63.0,"$53,914.96",london ,12.34,4.0
+2079,Fatima Malik,F,27 Nov 2019,20.0,"$58,842.38",LAHORE ,10.17,2.0
+1123,Fatima Butt,Male,2019-04-07,46.0,"$46,429.13",,74.88,5.0
+1346,David Khan,Female,06-13-2022,21.0,"$31,031.29",new york,27.93,4.0
+1616,Omar Lopez,Female,10-09-2024,57.0,"$36,989.65",Islamabad,113.46,4.0
+1338,Noor Lopez,Female,09-24-2020,,"$78,654.44",Islamabad,290.66,3.0
+1708,Hassan Ahmed,Female,27 Feb 2020,31.0,"$60,769.47",lahore,65.56,5.0
+1130,James Malik,Female,03 Oct 2019,37.0,"$64,946.13",Karachi,142.8,2.0
+1994,Bilal Malik,Female,2021-07-02,26.0,"$12,000.00",London,68.13,
+2078,Noor Chen,Male,08/04/2024,29.0,"$67,376.79", Islamabad,760.29,3.0
+1283,Emma Malik,Female,2020-02-25,19.0,"$70,406.97",new york,164.06,4.0
+1191,Sara Smith,Male,2021-08-15,26.0,"$57,006.72",london ,117.15,4.0
+1262,James Wilson,Male,2024-10-17,29.0,"$82,128.08",london ,46.01,
+1048,,FEMALE,23 Jun 2024,43.0,"$68,045.84",new york,11.11,3.0
+1657,Sara Chen,female,10 Jan 2021,23.0,"$70,163.98",Lahore,222.88,1.0
+1991,Omar Butt,,14/04/2020,21.0,"$42,157.33",london ,135.32,4.0
+1009,Noor Garcia,female,12-10-2020,72.0,"$45,137.31",new york,157.96,5.0
+1069,Omar Wilson,Male,08-17-2021,41.0,"$62,519.85",lahore,31.47,3.0
+1365,Emma Khan,Male,12-05-2019,,"$50,853.13",london ,224.27,
+1284,Bilal Smith,F,20 Mar 2019,31.0,"$55,062.21",Karachi,114.91,
+1238,Fatima Iqbal,female,05-14-2021,74.0,"$40,779.97",Islamabad,110.56,5.0
+1615,Bilal Iqbal,Female,14 May 2024,72.0,"$44,433.40",Lahore,85.63,4.0
+1423,David Smith,Male,17/09/2019,35.0,"$39,222.22",karachi,23.92,
+1840,Ayesha Smith,M,28/03/2023,60.0,"$34,746.13",Islamabad,36.79,4.0
+1133,Ayesha Khan,Male,04/07/2024,53.0,"$34,315.08",karachi,106.68,4.0
+1652,Maria Ahmed,male,2023-09-18,30.0,"$29,072.00",LAHORE ,144.79,
+1373,Fatima Farooq,M,30/09/2022,72.0,"$67,306.99",London,77.85,4.0
+1147,Sara Chen,Female,05 Jun 2024,59.0,"$72,444.86",lahore,41.86,4.0
+1114,Ali Farooq,Male,16 Sep 2023,57.0,"$39,790.78",london ,516.73,4.0
+1505,Noor Ahmed,,,67.0,"$63,844.54",london ,212.89,4.0
+2020,Ali Chen,Male,2021-07-24,28.0,"$68,525.90",lahore,67.76,5.0
+1863,Omar Lopez,Male,29/12/2023,67.0,"$46,559.07", Islamabad,185.5,2.0
+1406,Ali Smith,MALE,06-28-2023,30.0,"$13,209.80",london ,18.71,5.0
+1541,Bilal Chen,Female,11-24-2021,33.0,"$101,942.01",Islamabad,22.19,4.0
+1055,Ali Ahmed,Male,2023-02-11,61.0,"$41,339.55",London,40.52,
+1598,Noor Chen,female,02 Jun 2022,49.0,"$43,349.28",london ,798.2,2.0
+1279,Fatima Khan,Male,06-07-2022,68.0,"$49,255.89",london ,140.69,4.0
+2024,Zara Khan,Female,08-26-2022,,"$32,923.07",London,79.24,4.0
+1188,Maria Smith,Male,04-27-2023,38.0,"$53,418.48",Karachi,321.36,1.0
+1977,Ali Khan,female,19 Aug 2024,54.0,"$47,341.02",karachi,35.09,5.0
+1726,Bilal Smith,F,31/08/2023,72.0,"$30,211.71",Lahore,39.57,3.0
+1050,James Malik,male,05-28-2023,72.0,"$61,129.18",new york,120.9,5.0
+1607,Omar Khan,female,11-19-2023,36.0,"$73,927.01",Islamabad,34.83,5.0
+1412,Bilal Iqbal,,03 Aug 2022,59.0,"$64,701.36",karachi,3.37,4.0
+1464,Noor Khan,F,2024-07-25,28.0,"$48,169.16",New York,17.66,4.0
+1594,Maria Butt,male,03-20-2022,64.0,"$22,451.57",karachi,200.4,4.0
+1703,Emma Brown,FEMALE,2024-06-11,61.0,"$76,384.49",Islamabad,370.15,3.0
+1321,Sara Butt,Female,2020-06-01,51.0,"$45,219.09",new york,27.59,5.0
+1143,Hassan Ahmed,Male,2022-03-24,40.0,"$49,951.54",London,60.87,4.0
+1005,Noor Ahmed,FEMALE,02-01-2021,73.0,"$71,879.68",Islamabad,38.95,
+1663,Ayesha Brown,Female,08-03-2024,25.0,"$45,974.51",Lahore,19.48,5.0
+1922,Bilal Garcia,MALE,2022-03-19,68.0,"$65,347.47",Islamabad,327.66,5.0
+1377,Zara Butt,Female,11-06-2022,57.0,"$32,637.87",New York,174.97,4.0
+1920,Fatima Brown,Male,28 Jul 2019,27.0,"$64,315.48",,29.49,
+1707,Ali Smith,female,27 Dec 2023,65.0,"$39,996.20",new york,120.61,5.0
+1466,Sara Brown,FEMALE,12/06/2020,41.0,"$59,471.12",Karachi,15885.04,
+1389,John Ahmed,M,2023-02-05,64.0,"$52,667.30",Lahore,117.77,2.0
+1085,Fatima Chen,FEMALE,2024-08-06,63.0,"$68,325.74",lahore,72.9,5.0
+2011,Sara Brown,FEMALE,05-10-2020,22.0,"$59,063.21",Lahore,60.69,4.0
+1584,Bilal Garcia,Male,09-19-2022,67.0,"$29,405.41",new york,203.41,4.0
+1657,Ayesha Wilson,Female,25/07/2020,39.0,"$55,109.25",LAHORE ,187.97,1.0
+1507,Maria Brown,FEMALE,2022-08-08,50.0,"$46,780.08",lahore,308.87,4.0
+1142,Noor Ahmed,FEMALE,02/06/2020,31.0,,Lahore,237.29,5.0
+1385,Zara Smith,FEMALE,2019-08-24,58.0,"$66,483.71",London,28.24,5.0
+1775,Ayesha Garcia,Female,22/12/2020,28.0,"$30,056.05",London,25.18,
+1512,Ali Lopez,Female,08-25-2024,64.0,"$34,717.30", Islamabad,127.18,3.0
+1858,Fatima Wilson,female,18/08/2020,47.0,"$70,122.69",karachi,86.36,4.0
+1115,James Brown,Female,10/11/2023,73.0,"$62,517.33",karachi,193.4,2.0
+1134,John Farooq,F,09-09-2023,21.0,"$33,035.72",lahore,15.33,5.0
+1298,David Farooq,Female,12-07-2022,37.0,"$70,060.35",New York,215.76,5.0
+1213,Ayesha Farooq,female,08 Mar 2024,27.0,"$83,519.99",lahore,108.34,4.0
+1398,Maria Lopez,F,15/03/2019,30.0,"$57,096.85",london ,1.11,4.0
+1613,John Garcia,MALE,07-13-2020,,"$60,741.70",Islamabad,5.78,1.0
+1602,Fatima Garcia,Female,05-16-2024,22.0,"$51,735.45",New York,49.05,
+1022,Wei Chen,Female,2020-11-12,25.0,"$72,278.41",Islamabad,90.58,3.0
+1608,Hassan Chen,FEMALE,01 Aug 2022,53.0,"$82,011.78",London,105.19,3.0
+1885,Fatima Butt,Female,2023-05-04,60.0,"$37,026.43",Lahore,6688.54,4.0
+1811,Wei Chen,M,23 Jun 2021,35.0,"$48,443.29",Islamabad,243.31,5.0
+1689,Hassan Smith,Female,12 May 2020,70.0,"$61,738.88",Lahore,307.02,4.0
+1336,John Lopez,Male,2019-01-15,20.0,"$73,491.14",,8.03,4.0
+1396,Sara Khan,M,2023-06-15,19.0,"$46,269.72",London,81.73,4.0
+1431,Emma Ahmed,Male,11-20-2022,,"$100,569.04",london ,84.52,
+1622,Maria Garcia,Female,04-06-2022,61.0,"$51,987.48",new york,206.5,4.0
+1895,Ali Khan,FEMALE,2023-12-15,58.0,"$70,975.12",lahore,274.46,5.0
+1762,John Ahmed,male,26/12/2020,45.0,"$56,889.37",Karachi,267.11,2.0
+1066,Hassan Farooq,Female,01-26-2021,19.0,"$47,895.29",Islamabad,624.99,4.0
+1832,Noor Butt,FEMALE,06-17-2023,41.0,"$37,883.38",new york,47.23,5.0
+1026,John Butt,female,21 Nov 2023,59.0,"$48,813.31",Karachi,3.54,4.0
+1951,Noor Butt,FEMALE,26 Oct 2023,45.0,"$54,699.03",LAHORE ,354.1,5.0
+1439,Maria Lopez,Male,09/07/2021,28.0,"$63,171.75",LAHORE ,52.85,
+1760,Fatima Malik,Male,16 Aug 2022,56.0,"$60,086.68",LAHORE ,28.91,4.0
+1488,Ayesha Khan,MALE,08-30-2021,,"$46,746.65",LAHORE ,346.43,3.0
+1891,Noor Wilson,Male,07/02/2024,51.0,"$44,874.20",Islamabad,157.82,3.0
+1076,Emma Brown,Male,03/05/2024,52.0,"$67,193.24", Islamabad,34.31,3.0
+1790,Noor Iqbal,F,05-31-2024,28.0,"$69,883.91",Karachi,194.5,5.0
+1360,Noor Brown,Male,15/01/2024,73.0,"$48,721.09",Lahore,135.13,5.0
+1989,John Lopez,female,16 Jun 2021,23.0,"$54,599.59",lahore,22.65,5.0
+1085,James Iqbal,Male,05-25-2019,29.0,,Lahore,11.97,5.0
+1747,Fatima Brown,Male,01/03/2023,73.0,"$92,654.25",Lahore,372.29,4.0
+1667,Noor Smith,M,2020-09-16,42.0,"$63,490.03",new york,37.54,4.0
+1014,Zara Brown,Female,22/06/2022,38.0,"$68,212.30",Karachi,853.23,4.0
+1473,Maria Butt,Female,03-31-2019,71.0,"$69,952.25",LAHORE ,64.45,2.0
+2028,Ayesha Iqbal,Male,04-01-2020,43.0,"$53,070.46",London,163.26,4.0
+1274,Noor Butt,Male,04 Mar 2024,32.0,"$59,720.68",London,7.76,4.0
+1297,,F,06/02/2019,32.0,"$33,097.76",karachi,46.09,3.0
+1898,Wei Wilson,Female,05/11/2021,60.0,"$42,862.00",new york,5.33,3.0
+1112,Zara Khan,male,2023-04-19,47.0,"$78,664.85",LAHORE ,238.2,4.0
+1542,Maria Garcia,Female,04 Sep 2019,44.0,"$69,235.59",New York,190.09,4.0
+1143,Wei Garcia,Male,06 Sep 2021,21.0,"$68,772.05",Karachi,47.02,5.0
+1605,Ayesha Butt,male,02 Nov 2021,43.0,"$38,612.95", Islamabad,14.41,5.0
+1454,Noor Chen,MALE,,65.0,"$39,104.90",karachi,131.04,2.0
+1438,Emma Lopez,FEMALE,25/06/2022,65.0,"$40,440.45",london ,23.56,5.0
+1601,Fatima Garcia,FEMALE,2024-04-13,52.0,"$47,124.95",Karachi,567.9,5.0
+1707,Emma Butt,Female,28/05/2021,63.0,"$38,859.17",lahore,118.64,4.0
+1729,Omar Brown,Male,02/03/2019,50.0,"$69,366.55",new york,56.5,1.0
+1891,Hassan Lopez,Female,2019-12-12,71.0,"$30,614.21",Islamabad,36.0,4.0
+1604,Noor Ahmed,F,2020-11-29,45.0,"$69,282.80",london ,234.76,4.0
+1192,Emma Lopez,,15 Feb 2019,41.0,"$98,390.96",london ,77.21,
+1289,Noor Smith,male,03-27-2019,41.0,"$71,076.01",London,29.0,4.0
+1239,Noor Smith,M,04 Apr 2024,46.0,"$12,000.00",Karachi,72.9,4.0
+1528,James Lopez,male,14 Nov 2019,60.0,"$34,305.31",Karachi,426.33,
+1072,Omar Butt,F,22 Feb 2019,54.0,"$51,596.53",london ,2.51,5.0
+1758,Zara Chen,F,2021-11-09,18.0,"$55,489.45",Islamabad,148.21,3.0
+1237,Omar Iqbal,male,10-07-2019,57.0,"$54,547.54",New York,726.59,4.0
+1279,Wei Khan,Female,11-28-2022,,"$78,460.11",Islamabad,299.37,4.0
+1574,Zara Lopez,Male,14 Feb 2023,51.0,"$49,840.36",Lahore,182.15,5.0
+1721,Zara Chen,FEMALE,03-17-2024,57.0,"$50,197.96",New York,210.32,
+1101,Sara Malik,MALE,10-22-2019,51.0,, Islamabad,212.77,
+1811,John Malik,M,21 Mar 2020,35.0,"$69,770.59",karachi,32.54,4.0
+1787,Ayesha Malik,Male,2021-07-20,31.0,"$26,628.47",karachi,11.9,4.0
+1691,Zara Chen,Male,10-16-2019,65.0,"$53,853.54", Islamabad,3.56,4.0
+1145,John Ahmed,male,2021-08-26,43.0,"$69,240.16",LAHORE ,61.61,4.0
+1585,Sara Farooq,Male,10-04-2023,46.0,"$50,506.06",new york,53.67,5.0
+1286,Noor Wilson,Female,2021-07-04,24.0,"$58,068.04", Islamabad,251.38,4.0
+1471,Emma Smith,Female,28/02/2021,31.0,"$95,120.90",karachi,21.51,5.0
+1227,Wei Ahmed,FEMALE,01-09-2024,72.0,"$45,498.29",karachi,36.27,
+1564,Zara Ahmed,female,08-10-2024,46.0,"$62,840.13",Lahore,113.11,5.0
+1538,Wei Garcia,Male,08-29-2020,74.0,"$75,625.80", Islamabad,58.15,5.0
+1399,Ayesha Chen,Female,,62.0,"$69,640.95",Islamabad,22.28,2.0
+1373,Sara Butt,Male,2022-11-24,29.0,"$64,616.97",london ,187.67,1.0
+1665,David Wilson,FEMALE,30/10/2020,,"$62,627.14",LAHORE ,34.7,3.0
+1585,Ayesha Brown,Male,02 Oct 2024,38.0,"$64,312.17",Islamabad,375.58,3.0
+1707,Ayesha Iqbal,Female,04-09-2019,49.0,"$33,858.62",new york,176.38,
+1079,Ayesha Ahmed,Female,03 Dec 2021,50.0,, Islamabad,60.91,
+1027,John Lopez,Male,10-31-2022,25.0,"$12,000.00",LAHORE ,55.13,3.0
+1272,Maria Ahmed,MALE,05-27-2022,67.0,"$25,143.31", Islamabad,111.3,3.0
+1599,Emma Malik,Male,11 Sep 2023,18.0,"$12,000.00",lahore,89.56,1.0
+1778,James Garcia,female,22 Jan 2024,29.0,"$60,569.00",London,8.11,5.0
+1636,Maria Wilson,female,2023-01-12,62.0,"$47,519.19",Karachi,126.21,5.0
+1981,Ayesha Garcia,F,2019-02-13,74.0,"$39,611.22",London,16.82,5.0
+1235,David Wilson,male,28 Jun 2020,55.0,"$33,538.37", Islamabad,85.62,
+1476,Hassan Iqbal,FEMALE,13 Oct 2021,46.0,"$66,543.59", Islamabad,121.87,
+1697,Wei Smith,MALE,16/11/2021,74.0,"$67,608.96",lahore,53.11,
+1265,Wei Iqbal,Male,02-02-2019,50.0,"$51,191.75",London,58.56,4.0
+1911,Emma Farooq,Female,11 Nov 2021,,"$45,018.27",LAHORE ,129.32,5.0
+1527,David Khan,Male,04-09-2020,39.0,"$60,969.83",karachi,64.66,
+1683,Omar Khan,FEMALE,16/02/2020,25.0,"$62,433.19",London,2.83,4.0
+1275,Fatima Wilson,Male,30/12/2021,54.0,"$38,259.02",karachi,289.16,
+2060,David Garcia,Female,23/07/2023,74.0,"$47,119.04",new york,200.01,5.0
+1116,Sara Wilson,female,04 Feb 2021,37.0,"$65,859.01",lahore,91.19,1.0
+1603,David Ahmed,Female,08 Jun 2023,31.0,"$57,044.14",New York,55.94,
+1643,Bilal Khan,female,20/04/2024,65.0,"$82,098.72",new york,56.63,3.0
+1612,Hassan Iqbal,Female,10 Feb 2020,44.0,"$34,081.70",LAHORE ,57.46,4.0
+1101,Ali Chen,F,26 Nov 2023,70.0,"$53,932.04",London,14.56,3.0
+1954,Fatima Khan,Male,2021-02-13,57.0,"$68,660.02",New York,193.47,4.0
+1598,David Iqbal,Male,2020-02-03,58.0,"$57,754.61",Islamabad,352.16,5.0
+1567,Zara Butt,Male,14 Jul 2020,37.0,"$50,079.71",karachi,10.27,5.0
+1017,Omar Farooq,female,2022-08-10,29.0,"$49,182.78",new york,28.33,4.0
+1205,Zara Lopez,Female,,68.0,"$103,763.28",london ,1.81,3.0
+1952,Fatima Garcia,Female,09/11/2019,61.0,"$68,479.46",new york,1.79,4.0
+1333,John Iqbal,male,18 Mar 2021,71.0,"$40,310.05",Karachi,75.2,
+1225,Bilal Smith,Male,12 Aug 2023,28.0,,London,7.02,1.0
+1316,Omar Wilson,Female,2022-07-12,19.0,"$55,050.16",lahore,13.96,2.0
+1089,Ali Farooq,Male,08 Nov 2022,73.0,"$42,370.52",karachi,181.18,2.0
+1046,Omar Lopez,Female,06-06-2020,70.0,"$12,000.00",karachi,0.33,
+1566,Fatima Smith,male,01 May 2019,51.0,"$40,919.74",New York,9.37,
+1060,Zara Wilson,M,04-07-2021,74.0,"$77,898.80",London,43.26,2.0
+1254,Ayesha Malik,FEMALE,2024-12-29,27.0,"$33,660.65",karachi,398.01,
+1170,Sara Garcia,female,10/05/2019,44.0,"$29,666.97",New York,8.73,3.0
+1148,Bilal Smith,female,09/08/2023,58.0,"$53,714.09",LAHORE ,242.14,
+1449,Noor Butt,Female,2021-01-22,72.0,"$32,404.11",london ,30.86,4.0
+1175,Ayesha Garcia,Male,05-30-2019,55.0,"$58,977.26",lahore,25.58,5.0
+1333,Emma Smith,F,13/10/2019,,"$40,324.39",karachi,1.5,4.0
+1067,Wei Ahmed,Female,05 Dec 2024,24.0,"$50,335.67",new york,501.9,4.0
+1568,Wei Malik,Male,2019-01-28,63.0,"$99,611.06",lahore,29.47,
+1752,Wei Brown,Female,03 Jan 2023,74.0,"$49,698.58",London,155.54,5.0
+1868,Bilal Malik,female,04-29-2020,61.0,"$50,370.23",london ,63.69,1.0
+1907,Emma Brown,FEMALE,,70.0,"$70,296.23",New York,191.08,
+1427,Bilal Lopez,female,2024-11-22,51.0,"$29,975.26",Islamabad,39.54,2.0
+1925,David Ahmed,Female,04-04-2021,48.0,"$56,304.85",karachi,512.29,3.0
+1305,John Iqbal,Female,30 Oct 2023,41.0,"$62,318.25",lahore,50.14,5.0
+1730,Hassan Wilson,Female,10 Apr 2023,20.0,"$65,214.97",Lahore,72.85,
+1393,James Khan,Female,08 Jan 2021,18.0,"$85,607.80",karachi,47.37,2.0
+1267,Sara Khan,Male,04 Aug 2020,74.0,"$29,485.32",lahore,36.16,5.0
+1206,Sara Iqbal,F,2021-06-14,72.0,"$78,388.01",Karachi,11.2,5.0
+1896,Maria Brown,Male,14/07/2024,43.0,"$58,468.10",Lahore,347.29,3.0
+1591,Noor Khan,Female,15 Sep 2021,22.0,"$59,487.67",karachi,292.88,4.0
+1484,Ayesha Chen,Male,20 Jun 2022,26.0,"$26,864.08",LAHORE ,33.7,
+1068,Wei Brown,Female,2022-09-12,48.0,"$34,207.38",LAHORE ,404.77,5.0
+1728,Wei Ahmed,FEMALE,27/10/2020,31.0,"$26,447.28",karachi,159.18,4.0
+1989,Maria Chen,M,02-23-2022,72.0,"$28,054.52",London,135.85,5.0
+1156,Hassan Ahmed,Male,18 Apr 2021,,"$58,341.07",Karachi,44.76,1.0
+1947,Fatima Butt,F,2019-07-10,59.0,"$41,146.70",london ,12.77,5.0
+1259,Fatima Garcia,Male,2023-03-03,56.0,"$40,847.66",karachi,37.3,
+1627,Emma Lopez,Male,05-04-2020,65.0,"$94,255.00",karachi,52.06,4.0
+1950,Ali Wilson,MALE,01-16-2022,,"$67,787.22", Islamabad,303.92,3.0
+2063,Wei Malik,,28/09/2024,59.0,"$30,760.10",london ,235.64,5.0
+1157,Fatima Lopez,Male,2024-09-21,60.0,"$62,011.68",New York,132.77,5.0
+2065,Maria Khan,Female,05-23-2024,27.0,"$44,407.99",new york,29.5,4.0
+1998,Zara Lopez,MALE,2022-04-22,59.0,"$74,057.00",lahore,4.19,4.0
+1913,Zara Iqbal,Female,16/03/2020,68.0,"$41,747.61",London,69.35,5.0
+1412,Emma Garcia,FEMALE,2021-02-24,74.0,"$12,000.00",London,4.03,3.0
+1812,David Khan,Male,2023-01-27,41.0,"$69,760.04",lahore,25.71,4.0
+2035,Fatima Wilson,Male,01-18-2024,42.0,"$43,561.65",Islamabad,86.46,4.0
+2065,Sara Brown,male,2020-01-06,62.0,"$55,378.27",LAHORE ,107.12,4.0
+1703,Omar Farooq,Male,31 Dec 2024,42.0,"$27,962.12",Islamabad,71.21,5.0
+1035,Bilal Smith,male,23 Dec 2021,32.0,"$73,276.15",Lahore,20.4,3.0
+1387,Fatima Farooq,Male,25 Feb 2022,66.0,"$59,510.87", Islamabad,87.69,4.0
+1736,Wei Butt,male,06-25-2019,58.0,"$34,520.17",lahore,531.75,1.0
+1299,James Farooq,Female,03 May 2021,20.0,"$58,840.75",karachi,132.62,2.0
+1288,James Brown,MALE,2024-10-11,29.0,"$55,398.40",London,180.91,2.0
+1893,John Wilson,Female,2021-06-18,33.0,"$61,226.22",LAHORE ,106.24,5.0
+1362,John Ahmed,Male,10-31-2019,41.0,"$63,824.56",new york,92.73,2.0
+1368,Emma Malik,Male,08/10/2023,61.0,"$91,772.10",New York,7.1,5.0
+1873,Sara Butt,Male,04/07/2022,68.0,"$68,640.95",lahore,427.85,1.0
+1014,Zara Brown,Female,22/06/2022,38.0,"$68,212.30",Karachi,853.23,4.0
+1798,Sara Farooq,Male,17 Jan 2019,66.0,"$96,688.30",karachi,58.91,5.0
+1897,Zara Brown,FEMALE,2022-01-08,49.0,"$67,277.90",london ,182.15,3.0
+1079,Noor Brown,Male,2020-07-29,53.0,"$62,721.07",,121.11,5.0
+1570,Ayesha Iqbal,MALE,2022-11-13,73.0,"$32,607.06",london ,90.95,5.0
+1735,James Iqbal,Female,21 Oct 2020,34.0,"$68,761.79",New York,95.11,4.0
+2079,James Brown,Male,2019-09-10,44.0,"$55,197.47",lahore,100.84,2.0
+1146,Ayesha Chen,male,2023-02-12,55.0,"$33,239.76",LAHORE ,163.56,4.0
+1844,Noor Garcia,Female,2020-05-19,45.0,"$81,850.85",karachi,75.74,5.0
+1720,Ayesha Malik,female,02/12/2020,35.0,"$31,619.21",London,77.94,5.0
+1245,Sara Wilson,FEMALE,03/11/2021,30.0,"$48,347.82",new york,46.21,5.0
+1898,Maria Malik,F,08 Jul 2024,150.0,"$36,369.03",London,182.61,3.0
+1767,Fatima Malik,MALE,11/11/2022,45.0,"$61,116.65",Lahore,441.83,3.0
+1307,James Garcia,FEMALE,10 Jun 2019,63.0,"$67,570.23",New York,44.56,4.0
+1627,James Khan,Female,2019-06-14,34.0,"$45,294.83",New York,8.12,5.0
+1048,Hassan Wilson,MALE,29 Oct 2022,,"$62,971.78",London,4.24,1.0
+1957,Wei Malik,Male,2020-05-26,65.0,"$93,818.32",New York,131.94,5.0
+1872,Zara Malik,Female,31/05/2023,45.0,"$36,591.96",New York,159.79,5.0
+2029,Omar Chen,F,04 Apr 2022,42.0,"$55,515.96",karachi,129.17,3.0
+1532,Ayesha Malik,Female,07 May 2022,35.0,"$75,334.55",Karachi,147.48,5.0
+1820,Ali Malik,F,2021-04-20,32.0,"$66,642.89",London,172.33,5.0
+1429,Ayesha Butt,Male,23/08/2023,55.0,"$70,865.20",new york,10.84,5.0
+1524,John Malik,Female,12-31-2022,38.0,"$19,997.54",Lahore,40.87,3.0
+1604,Fatima Lopez,male,02 Jul 2020,59.0,"$68,629.07",London,97.59,1.0
+1712,Ayesha Butt,Female,09 Jul 2023,30.0,"$46,055.02",karachi,20.99,5.0
+1998,John Farooq,Female,05 Jan 2020,34.0,"$60,918.09",lahore,305.68,4.0
+1493,Bilal Butt,MALE,2021-01-04,18.0,"$50,000.46",lahore,231.92,3.0
+1339,Zara Butt,M,13/09/2020,49.0,"$56,801.13", Islamabad,69.23,
+1144,John Khan,Female,28 Oct 2020,52.0,"$59,944.88",LAHORE ,217.43,4.0
+1082,Sara Ahmed,Male,02-12-2019,35.0,"$36,522.67",London,19.93,4.0
+2041,Hassan Brown,MALE,22 Sep 2020,49.0,"$56,644.69",Islamabad,153.5,
+1083,Fatima Khan,F,2022-05-20,37.0,"$69,406.23",lahore,7.5,3.0
+1156,Hassan Ahmed,Male,18 Apr 2021,,"$58,341.07",Karachi,44.76,1.0
+1624,Maria Chen,Male,2020-09-02,57.0,"$24,556.41", Islamabad,153.75,3.0
+1890,Omar Iqbal,Female,07-20-2020,62.0,,Lahore,83.92,4.0
+1491,Wei Wilson,F,24 Nov 2024,36.0,"$73,267.09",lahore,85.71,
+1929,John Butt,Female,03-15-2022,57.0,"$79,579.71",LAHORE ,132.51,4.0
+1502,Ali Malik,MALE,2020-10-07,56.0,"$61,409.58",London,111.93,4.0
+1523,James Smith,MALE,2022-09-05,70.0,"$58,427.89",,63.76,1.0
+2009,Ayesha Smith,FEMALE,08-22-2019,31.0,"$14,412.01",london ,31.08,5.0
+1229,David Iqbal,Female,14 Mar 2020,,"$36,231.26", Islamabad,36.46,5.0
+1957,Maria Chen,male,02 May 2022,65.0,"$35,474.77",Karachi,189.06,
+1267,Sara Khan,Male,04 Aug 2020,74.0,"$29,485.32",lahore,36.16,5.0
+1541,Wei Khan,Male,04-26-2024,,"$54,793.46",New York,179.53,2.0
+1243,Ali Farooq,FEMALE,23/04/2020,26.0,"$66,450.94",Lahore,9.14,5.0
+1308,David Malik,Female,29/06/2019,20.0,"$101,823.36",Karachi,142.09,1.0
+1764,Sara Smith,male,02/11/2019,67.0,"$67,914.72",karachi,5.94,1.0
+1369,Ayesha Chen,Male,25 Jun 2021,71.0,"$59,873.62",,171.28,5.0
+1652,Bilal Lopez,male,08-17-2022,29.0,"$51,481.60",Islamabad,60.11,4.0
+1603,Bilal Ahmed,Male,05-17-2020,56.0,"$90,903.40", Islamabad,299.89,3.0
+1504,Emma Lopez,male,12/06/2019,68.0,"$97,532.12",Islamabad,54.32,3.0
+1950,Noor Malik,Female,28 Jul 2022,66.0,"$45,671.09",Islamabad,361.3,
+1629,Omar Khan,FEMALE,30 Jul 2021,45.0,"$17,684.64",london ,55.42,5.0
+1389,Sara Smith,Male,14/08/2024,38.0,"$57,261.44",Lahore,17.81,2.0
+1313,Omar Farooq,male,2020-08-27,70.0,"$55,357.29",Karachi,133.81,5.0
+1758,Ayesha Chen,FEMALE,26 Jan 2024,,"$72,448.54",new york,85.25,5.0
+1474,Emma Lopez,Male,02/03/2021,22.0,"$45,402.38",Karachi,37.17,4.0
+1690,Wei Iqbal,Male,09 Dec 2024,54.0,"$66,808.87",lahore,86.48,5.0
+1526,Noor Farooq,MALE,2024-04-10,74.0,"$63,048.83",karachi,84.59,3.0
+1516,James Brown,Male,06-07-2021,46.0,"$58,400.50",LAHORE ,0.68,3.0
+1491,James Iqbal,Female,17/04/2022,37.0,"$51,245.29",lahore,167.63,3.0
+1433,David Smith,Female,12 Oct 2023,34.0,"$47,272.98",,62.36,5.0
+1667,Ali Iqbal,Male,28/08/2021,40.0,"$50,280.28",Lahore,8.29,4.0
+2024,Zara Ahmed,Female,03-15-2023,51.0,"$65,829.10",london ,15.42,2.0
+1830,Bilal Chen,male,07/05/2024,42.0,"$22,387.07",new york,601.89,5.0
+1391,Bilal Farooq,Male,04-20-2020,43.0,"$60,035.33",london ,95.21,5.0
+1704,Ali Brown,Female,2023-01-20,48.0,"$64,167.64", Islamabad,11.18,4.0
+1672,Maria Ahmed,M,11 Jul 2020,53.0,"$52,781.88",london ,59.72,5.0
+1299,Omar Lopez,male,20 May 2023,61.0,"$31,074.00",karachi,72.47,5.0
+1298,Bilal Smith,FEMALE,03-09-2024,22.0,"$96,521.15",london ,18.99,5.0
+1497,Emma Ahmed,Male,06 Jul 2022,52.0,,LAHORE ,226.48,
+1573,Wei Khan,Female,09 Nov 2022,27.0,"$47,861.72",karachi,41.27,
+1980,Bilal Smith,Female,11-08-2024,49.0,"$39,797.08",new york,4.61,5.0
+1521,Ayesha Lopez,Male,25/12/2019,45.0,"$65,903.25",lahore,82.12,4.0
+1856,Emma Chen,Male,2019-09-13,55.0,"$59,726.63",LAHORE ,360.75,4.0
+1137,Zara Garcia,Male,12-21-2021,26.0,"$21,740.32",lahore,19.33,5.0
+1397,John Khan,Male,2019-08-11,70.0,"$70,885.96",London,288.94,3.0
+1792,David Lopez,MALE,06-21-2021,30.0,"$38,264.74",new york,11.31,4.0
+1582,John Garcia,Male,2023-02-09,52.0,"$41,153.11",Karachi,117.18,1.0
+1187,Sara Iqbal,Female,21 Jul 2019,52.0,"$42,087.48",new york,213.81,4.0
+1644,John Brown,Female,03 Jun 2019,,"$69,552.52", Islamabad,261.1,5.0
+1616,Maria Wilson,M,12-18-2023,35.0,"$89,055.91",LAHORE ,35.24,4.0
+1051,James Butt,Male,26/07/2021,38.0,"$54,444.36",london ,49.19,1.0
+1873,Noor Chen,Male,16/06/2022,39.0,"$17,260.61",Karachi,50.51,2.0
+1461,Noor Ahmed,male,30/05/2021,55.0,"$55,548.62", Islamabad,248.0,3.0
+1003,Noor Brown,Female,2024-10-22,33.0,"$70,138.62", Islamabad,212.62,3.0
+1062,John Chen,M,09-20-2023,35.0,"$81,189.84",lahore,1.5,4.0
+1352,Bilal Lopez,Female,2022-01-21,28.0,"$73,128.95",london ,38.15,3.0
+1833,Maria Chen,Male,20 Dec 2022,60.0,"$98,214.65",karachi,16.97,5.0
+2026,Emma Farooq,M,,19.0,"$73,490.77", Islamabad,36.38,3.0
+1137,Zara Garcia,Male,12-21-2021,26.0,"$21,740.32",lahore,19.33,5.0
+1966,David Garcia,Male,31/10/2024,41.0,"$75,479.30",karachi,87.33,3.0
+1310,John Malik,male,2023-08-20,44.0,"$22,214.57",,28.09,5.0
+2042,Sara Iqbal,female,13 May 2020,49.0,"$44,611.05",Karachi,245.38,4.0
+1147,Noor Smith,Female,2022-12-16,72.0,"$19,228.68",new york,15.98,5.0
+1885,Omar Wilson,Female,24 Dec 2020,58.0,"$45,144.00",Lahore,280.38,2.0
+1867,Emma Lopez,Female,09 Oct 2019,34.0,"$32,630.07",london ,81.65,5.0
+1055,Emma Smith,MALE,13/10/2022,34.0,"$34,071.17",New York,63.26,5.0
+1940,Emma Butt,Male,12-16-2019,42.0,"$82,959.32",Karachi,250.84,4.0
+1595,Wei Brown,Female,27/12/2022,61.0,"$52,348.97",Lahore,145.18,5.0
+1788,James Iqbal,male,12-10-2024,36.0,"$80,292.91",lahore,26.72,4.0
+1082,Wei Butt,Male,12-08-2019,60.0,"$30,879.22",London,58.25,4.0
+1805,Omar Farooq,FEMALE,2019-04-02,44.0,"$36,990.87",LAHORE ,27.69,2.0
+1836,Maria Khan,FEMALE,03-11-2019,57.0,"$55,107.61",karachi,64.31,4.0
+1144,Emma Iqbal,Female,10-23-2023,52.0,"$53,417.89",new york,155.54,4.0
+1988,David Ahmed,Female,02-02-2021,52.0,"$59,654.54",new york,10.53,4.0
+1560,Fatima Wilson,Male,2024-10-28,23.0,"$42,373.40",lahore,106.25,5.0
+1050,Wei Khan,Male,01-16-2020,74.0,"$80,058.68",London,116.29,3.0
+1454,Noor Smith,F,16/11/2020,19.0,"$76,789.57",London,64.32,3.0
+1606,Zara Iqbal,,26 Apr 2021,65.0,"$24,637.45",LAHORE ,99.01,4.0
+2017,Sara Farooq,F,08 May 2021,64.0,"$34,105.03",new york,250.69,3.0
+1367,David Butt,Male,08-02-2021,61.0,"$50,512.03",london ,22.69,3.0
+1435,Ali Farooq,Male,18 May 2019,49.0,"$45,891.56", Islamabad,6.82,4.0
+2065,Hassan Farooq,Male,07-21-2023,20.0,"$39,592.08",lahore,44.52,4.0
+1320,Wei Brown,Female,29/03/2020,26.0,"$55,430.75",Islamabad,85.21,4.0
+2070,Ali Butt,MALE,18/10/2021,23.0,"$85,501.38",Islamabad,33.16,3.0
+1528,Omar Farooq,Male,05 Jul 2020,21.0,"$52,568.88",Lahore,90.8,
+1763,Zara Iqbal,female,29 Nov 2021,42.0,"$63,011.48",Lahore,64.59,5.0
+1347,Omar Lopez,Female,07-01-2023,59.0,"$46,366.09",LAHORE ,118.72,4.0
+1759,Omar Smith,Female,30/04/2024,45.0,"$54,375.15",London,59.32,5.0
+1381,Hassan Farooq,Male,09-04-2020,45.0,"$77,416.83",Karachi,56.0,3.0
+1454,Ali Garcia,MALE,2022-09-08,24.0,"$54,353.72",LAHORE ,13.42,2.0
+2036,John Garcia,MALE,2022-12-29,,"$32,953.83",london ,13.42,4.0
+1394,Maria Smith,Female,01-21-2019,27.0,"$76,171.97",lahore,129.74,5.0
+1813,Noor Garcia,Male,11 Mar 2024,47.0,"$53,084.30",Islamabad,30.16,5.0
+1965,Maria Garcia,female,04/04/2019,65.0,"$35,206.90",london ,137.27,1.0
+1581,Maria Lopez,FEMALE,05 Jun 2021,54.0,"$53,016.55",lahore,33.4,
+1415,Zara Khan,,04-24-2021,68.0,"$16,735.58",LAHORE ,14.88,5.0
+1783,Ayesha Butt,Female,10 Sep 2021,31.0,"$67,777.43",new york,5.06,4.0
+1364,David Wilson,Male,19/02/2022,73.0,"$55,464.83",London,120.17,5.0
+1962,John Garcia,Female,28/05/2020,36.0,"$73,437.29",Lahore,230.91,4.0
+1276,Sara Iqbal,Male,04-07-2020,33.0,"$71,078.80",Lahore,2.78,5.0
+1840,Ayesha Garcia,M,02/12/2023,71.0,"$58,290.45",new york,277.14,
+1159,Maria Khan,Male,,22.0,"$23,226.76",,146.52,4.0
+1153,Fatima Malik,Female,12-06-2019,74.0,"$65,940.11",Karachi,152.77,1.0
+1771,Emma Smith,male,25 Sep 2024,43.0,"$69,224.06",Lahore,172.71,5.0
+1381,David Wilson,Female,2020-02-12,39.0,"$23,321.78",new york,57.33,2.0
+1030,Bilal Smith,F,11-20-2021,71.0,"$54,018.33",New York,509.58,2.0
+2003,,Male,05-12-2022,21.0,"$42,826.01",Lahore,20.68,4.0
+1413,Zara Malik,M,2023-01-25,33.0,"$79,215.70",London,34.83,5.0
+1884,Ayesha Brown,F,05 Feb 2020,54.0,"$40,839.52",Karachi,11.19,4.0
+1584,Zara Khan,Male,01 Nov 2023,53.0,"$58,675.88",Islamabad,29.95,5.0
+1753,Ayesha Lopez,F,02-15-2021,49.0,"$70,326.76",Islamabad,168.32,5.0
+1902,Ali Malik,Male,31/12/2023,68.0,"$41,637.86", Islamabad,78.4,5.0
+1172,Maria Malik,Female,11-05-2020,48.0,"$28,221.38",Karachi,79.86,4.0
+1239,David Farooq,Male,24/02/2024,51.0,"$24,687.04",Karachi,37.41,5.0
+2035,Zara Wilson,male,07/05/2019,71.0,"$44,302.79", Islamabad,130.31,
+1093,Fatima Chen,M,17 Mar 2023,45.0,"$54,305.05",london ,86.85,1.0
+2009,John Farooq,Female,,36.0,"$32,838.98",LAHORE ,419.27,4.0
+2011,Zara Brown,MALE,11-25-2021,44.0,"$38,068.81", Islamabad,0.54,4.0
+1298,Ali Iqbal,Female,08/02/2019,,"$68,695.83",karachi,112.24,4.0
+1654,Ayesha Farooq,male,05-21-2019,68.0,"$28,103.76",london ,399.84,4.0
+1086,Hassan Iqbal,Female,09-26-2021,27.0,"$78,651.40",LAHORE ,22.35,4.0
+1704,Ali Brown,Female,2023-01-20,48.0,"$64,167.64", Islamabad,11.18,4.0
+1079,Sara Khan,female,28/09/2022,45.0,"$46,234.68",Karachi,108.89,3.0
+1067,Wei Butt,MALE,18 Feb 2023,48.0,"$76,444.61",LAHORE ,53.56,4.0
+1384,Emma Butt,Female,08-17-2019,73.0,"$39,329.12",LAHORE ,40.16,5.0
+1794,David Malik,Female,15 Oct 2022,33.0,"$61,764.52",,5.85,
+1102,Zara Garcia,Male,2021-11-18,22.0,"$40,370.18",new york,21.21,5.0
+1583,Bilal Wilson,male,08 Feb 2022,40.0,"$22,903.59",Karachi,101.85,3.0
+1939,Maria Wilson,Male,02 Nov 2022,50.0,"$52,606.93",lahore,85.94,1.0
+1186,Emma Ahmed,MALE,2019-04-26,18.0,"$57,840.13",karachi,234.6,4.0
+1661,Zara Wilson,FEMALE,26 Feb 2024,39.0,"$18,190.68", Islamabad,0.83,4.0
+1836,Emma Iqbal,Male,08 Aug 2024,23.0,"$96,243.54",new york,330.48,3.0
+1492,John Butt,Female,05/01/2023,57.0,"$48,631.65", Islamabad,99.72,5.0
+1009,Wei Chen,F,23 Mar 2023,44.0,"$50,040.19",lahore,233.82,1.0
+1749,Omar Brown,Female,03-26-2019,22.0,"$62,930.92",lahore,196.95,5.0
+1167,Hassan Lopez,Male,19 Jul 2019,,"$74,253.82", Islamabad,24.88,4.0
+1227,,M,2024-04-28,51.0,"$50,775.08",karachi,14.65,4.0
+1624,Bilal Brown,Female,18/04/2020,31.0,"$20,507.32",Karachi,53.87,4.0
+1777,Omar Garcia,Female,05-30-2020,31.0,"$77,435.78",London,82.92,4.0
+1609,Zara Iqbal,Female,04/03/2022,42.0,"$41,925.06",Karachi,564.63,4.0
+1215,John Iqbal,FEMALE,16/05/2021,67.0,"$43,715.89",,18.75,4.0
+1301,Ali Farooq,Female,2021-04-11,,"$71,330.74",LAHORE ,0.14,4.0
+1509,Ayesha Khan,Female,2020-08-07,64.0,"$66,168.75",Karachi,40.24,5.0
+2074,Noor Smith,Male,03-04-2021,72.0,"$59,119.02",Islamabad,5.12,4.0
+1756,Ali Lopez,Male,2019-03-04,21.0,"$22,785.24",London,269.2,5.0
+1712,Emma Ahmed,Male,30 Jun 2020,60.0,"$15,964.52",karachi,27.09,4.0
+1840,Sara Smith,Female,07 Mar 2021,32.0,"$34,541.84",karachi,90.67,4.0
+1953,Wei Iqbal,M,2024-08-26,54.0,"$70,401.44",New York,71.59,4.0
+1466,Ali Chen,Male,03-11-2021,59.0,"$63,419.13", Islamabad,163.22,5.0
+1838,Maria Butt,Male,2020-08-16,72.0,"$62,703.20",LAHORE ,165.71,
+1507,James Chen,MALE,06/01/2021,29.0,"$50,383.63",New York,3.11,4.0
+1204,Bilal Farooq,Male,27/10/2021,33.0,"$77,041.37",LAHORE ,88.66,4.0
+1635,Emma Lopez,Male,17 Jun 2020,74.0,"$42,865.21",New York,51.73,5.0
+1486,Emma Smith,Male,05-23-2020,59.0,"$40,980.86",karachi,23.32,1.0
+1976,Wei Garcia,Female,11 Apr 2022,40.0,"$51,340.43",London,309.96,4.0
+2014,Wei Khan,Female,20 May 2024,27.0,"$54,112.72",Lahore,195.25,
+1237,Maria Chen,Male,08-30-2022,66.0,"$74,581.39", Islamabad,129.22,3.0
+1918,Fatima Smith,male,07/10/2021,32.0,"$53,563.71",LAHORE ,4.12,
+1321,Omar Lopez,Female,06-21-2019,65.0,"$80,548.81",,83.89,
+1250,Fatima Khan,F,09 Nov 2024,40.0,"$65,593.99",London,41.6,5.0
+2018,Fatima Farooq,FEMALE,03-23-2020,36.0,"$47,425.88",lahore,145.28,4.0
+1026,Hassan Ahmed,Female,23/09/2023,56.0,"$73,501.76",London,41.8,5.0
+1510,Sara Brown,Female,11-17-2022,74.0,"$62,589.93",New York,60.47,5.0
+1890,Omar Brown,Male,17/02/2021,65.0,"$53,526.22",New York,218.03,5.0
+1292,Sara Malik,Female,,62.0,"$57,669.78",Lahore,51.32,
+1771,Ali Iqbal,Male,17 Feb 2020,36.0,"$80,628.74",Lahore,3.07,2.0
+1301,Maria Khan,Male,2023-04-30,20.0,"$63,118.40",lahore,210.07,
+1281,Ali Chen,,03 Nov 2023,20.0,"$48,388.35",Islamabad,44.21,
+1706,Emma Wilson,Male,03 Jul 2023,34.0,"$39,885.17",london ,348.95,4.0
+1775,Bilal Malik,M,2022-07-01,22.0,"$35,217.78",karachi,215.71,1.0
+1331,Emma Smith,female,01-03-2022,58.0,"$66,350.13",karachi,87.87,5.0
+1642,Sara Butt,female,04-17-2024,35.0,"$77,923.96",Karachi,69.68,5.0
+1546,Bilal Chen,female,02-01-2020,19.0,"$67,472.81",Islamabad,306.91,
+1908,Bilal Garcia,,02-01-2023,22.0,"$75,652.49",lahore,142.02,4.0
+1992,David Butt,MALE,07/02/2020,45.0,"$47,995.86",lahore,186.67,5.0
+1475,David Iqbal,Male,25/01/2020,57.0,"$60,501.30",Lahore,63.97,
+1794,James Garcia,FEMALE,,31.0,"$21,352.57",karachi,249.95,5.0
+1449,Zara Wilson,FEMALE,2023-07-16,65.0,"$72,174.68",Lahore,6244.66,5.0
+1527,Zara Malik,Male,2020-12-20,67.0,"$53,863.76", Islamabad,205.34,5.0
+1707,Bilal Garcia,Male,01/11/2020,39.0,"$50,906.39",lahore,32.84,4.0
+1893,Ali Brown,Male,2023-08-16,64.0,"$32,310.12",Lahore,34.02,5.0
+1993,Ayesha Iqbal,male,22 Jan 2019,72.0,"$68,259.09",,101.21,4.0
+1857,Sara Butt,Female,23 Sep 2024,61.0,"$68,537.24",new york,9.37,3.0
+1371,Fatima Brown,Male,03/03/2020,31.0,"$30,841.72",LAHORE ,25.9,3.0
+1941,Bilal Iqbal,Female,2022-06-24,53.0,"$58,362.28",New York,34.64,4.0
+1783,Omar Butt,Male,2024-06-03,54.0,"$54,999.63",Lahore,49.45,1.0
+1632,Bilal Brown,,26/10/2024,35.0,"$63,180.18",LAHORE ,22.58,5.0
+1865,Sara Iqbal,Male,29 Jun 2024,44.0,"$44,697.57",Islamabad,243.32,4.0
+1186,Emma Ahmed,MALE,2019-04-26,18.0,"$57,840.13",karachi,234.6,4.0
+1980,David Butt,Female,09-03-2022,54.0,"$58,418.01",lahore,42.27,4.0
+1408,Wei Ahmed,Male,13 Feb 2024,67.0,"$33,703.46",lahore,102.39,5.0
+1396,Hassan Butt,Female,10-28-2023,27.0,"$26,932.13",Lahore,163.33,4.0
+1449,Omar Wilson,M,2022-01-14,43.0,"$52,043.32",new york,162.56,5.0
+1516,Omar Brown,Male,24/01/2019,37.0,"$51,979.60",LAHORE ,86.81,5.0
+1387,Hassan Butt,Male,14 Mar 2023,73.0,"$64,475.57",Karachi,52.35,2.0
+1766,Ayesha Garcia,FEMALE,03-05-2021,56.0,"$62,510.27",karachi,167.44,2.0
+1391,Sara Malik,FEMALE,01/02/2019,61.0,"$72,254.97",lahore,6.71,1.0
+1033,Emma Brown,F,10-28-2022,28.0,"$12,000.00",new york,214.1,3.0
+2024,Bilal Brown,M,2020-09-27,52.0,"$61,598.42",lahore,11.58,4.0
+1737,Zara Garcia,Male,14 Jan 2020,69.0,"$48,433.72",LAHORE ,71.66,3.0
+2061,John Ahmed,Female,2020-09-15,35.0,"$82,343.01", Islamabad,175.34,5.0
+1067,Ali Khan,MALE,09-20-2020,,"$31,424.65",Karachi,73.11,2.0
+1138,John Farooq,Male,2024-07-23,74.0,"$22,603.26",London,119.95,4.0
+1698,Fatima Lopez,Female,,18.0,"$67,674.63",London,95.91,4.0
+1311,Bilal Butt,Male,10-03-2021,59.0,"$53,135.97",Karachi,69.52,3.0
+2026,Noor Iqbal,Male,12-28-2021,56.0,"$64,685.13",lahore,42.25,5.0
+1120,James Ahmed,Female,02-28-2019,61.0,"$38,610.62",LAHORE ,96.98,3.0
+2024,Zara Farooq,F,10 Nov 2020,25.0,"$49,980.90",karachi,3.33,5.0
+2044,Noor Brown,Female,15 Apr 2022,45.0,"$64,710.46",Lahore,11.95,4.0
+1619,Zara Wilson,FEMALE,11 Nov 2019,,"$66,931.25", Islamabad,26.18,
+2025,Wei Iqbal,Male,07/06/2024,,"$80,967.17",london ,83.8,5.0
+1836,Omar Smith,MALE,01-15-2021,37.0,"$41,541.24",London,148.16,5.0
+1772,Zara Chen,Male,02 Apr 2024,71.0,"$58,583.57",Islamabad,5.22,3.0
+2064,Wei Iqbal,,29/11/2024,32.0,"$32,092.26",Islamabad,23.92,
+1718,Bilal Lopez,male,01 Jan 2020,25.0,"$60,927.81",Lahore,62.47,4.0
+1932,Ali Wilson,F,21 Apr 2023,18.0,"$41,301.60",london ,16.1,5.0
+1036,Ali Butt,Male,15 Oct 2024,,"$12,000.00",New York,3.01,4.0
+1598,Omar Garcia,M,14 Sep 2024,67.0,"$39,922.86",karachi,15.07,5.0
+1649,Noor Iqbal,FEMALE,02/11/2024,27.0,"$42,702.97",Karachi,28.55,4.0
+2015,Zara Smith,MALE,12 Jun 2021,30.0,"$82,546.17",lahore,427.41,5.0
+1495,Omar Butt,MALE,,37.0,"$23,933.79",karachi,12.76,5.0
+1272,James Farooq,,23/01/2020,41.0,"$66,496.98",Karachi,243.3,3.0
+1569,Zara Khan,Male,01 Sep 2019,34.0,"$61,762.70",lahore,47.04,5.0
+1841,Zara Wilson,Male,20/04/2019,25.0,"$72,276.06",Islamabad,69.38,5.0
+1328,James Butt,female,14 Jun 2022,59.0,"$47,540.91", Islamabad,116.36,4.0
+1751,David Chen,F,,58.0,"$49,645.38",London,301.1,4.0
+1193,James Garcia,female,02/07/2019,61.0,"$89,464.54",new york,90.46,4.0
+1843,James Farooq,Male,15/11/2023,73.0,"$68,659.24",new york,22.29,5.0
+1107,Ali Butt,Female,19 Nov 2022,23.0,"$66,179.79",New York,22.95,3.0
+1548,John Lopez,Female,10/12/2022,53.0,"$69,276.13",LAHORE ,0.76,4.0
+1936,Fatima Lopez,male,08-08-2021,19.0,"$49,755.87", Islamabad,335.78,4.0
+1526,Emma Chen,Male,25/10/2020,43.0,"$58,046.94",New York,12.57,4.0
+1601,James Smith,Female,18 Jul 2020,31.0,"$46,997.01",,1.36,5.0
+1079,Omar Garcia,Female,12-23-2022,58.0,"$44,616.62",,70.69,
+1889,James Chen,Male,22 Feb 2023,40.0,"$71,054.46",New York,118.91,5.0
+2046,David Farooq,M,2021-09-21,51.0,"$58,354.25",LAHORE ,335.92,3.0
+1084,Sara Garcia,Male,12/09/2023,50.0,"$85,124.36",London,59.65,
+1297,Ayesha Farooq,Male,03-16-2021,35.0,"$49,665.24",new york,342.49,5.0
+1114,David Malik,Male,,31.0,"$42,302.05",Lahore,36.03,5.0
+1344,James Malik,Female,07/01/2024,51.0,"$55,054.17", Islamabad,5.0,3.0
+1088,John Ahmed,MALE,19 May 2021,59.0,"$35,970.03",lahore,90.42,
+1872,Emma Butt,,26 Mar 2024,23.0,"$45,157.10",new york,253.96,5.0
+1501,Bilal Khan,Female,24 Apr 2019,49.0,"$79,841.72",lahore,93.12,3.0
+2032,Emma Smith,FEMALE,01 Jun 2021,19.0,"$77,217.61",lahore,83.64,4.0
+1629,Sara Iqbal,Male,02-18-2024,25.0,"$68,147.97",lahore,14.52,4.0
+1940,Zara Malik,F,2019-04-06,70.0,"$69,299.40",london ,20.75,4.0
+1019,John Chen,Female,18/03/2020,44.0,"$54,546.42",LAHORE ,254.47,5.0
+1553,Emma Brown,M,2019-03-05,56.0,"$43,622.63",lahore,117.41,4.0
+1720,Emma Lopez,MALE,2022-09-10,69.0,"$58,082.21",LAHORE ,119.22,4.0
+1591,John Wilson,Female,2019-08-08,55.0,"$25,938.78",london ,273.6,3.0
+1636,David Lopez,MALE,2024-12-14,56.0,"$35,956.28",Islamabad,25.96,5.0
+1046,David Ahmed,Male,06 Feb 2024,49.0,"$37,747.18",lahore,131.01,4.0
+1833,Emma Farooq,F,,35.0,"$36,047.89",karachi,9.2,3.0
+1502,Ali Garcia,female,08/03/2023,38.0,"$62,120.63",LAHORE ,80.5,5.0
+1052,Ayesha Brown,Male,2019-05-19,33.0,"$56,812.42",Lahore,0.72,4.0
+1598,Noor Iqbal,F,03 Nov 2020,72.0,"$24,722.21",london ,66.16,4.0
+1978,David Iqbal,,14 Jul 2023,64.0,"$68,226.37",New York,389.61,
+1090,Ali Brown,Female,02/05/2020,59.0,"$44,274.33",lahore,6.78,4.0
+2005,Zara Malik,Female,23 Aug 2022,71.0,"$58,416.79",london ,39.54,4.0
+2024,James Wilson,male,03-22-2021,31.0,"$86,686.65",karachi,0.64,4.0
+1071,Maria Brown,MALE,2021-07-08,45.0,"$32,484.97",london ,80.49,3.0
+1651,Ayesha Ahmed,Male,15/04/2024,27.0,"$53,327.55",LAHORE ,131.81,4.0
+1802,Wei Garcia,F,02 Mar 2024,20.0,"$46,740.77",london ,126.66,3.0
+1792,Bilal Butt,M,04/06/2020,64.0,"$38,413.03",New York,72.22,5.0
+1727,Wei Wilson,Male,23/06/2020,58.0,"$69,744.93",Islamabad,82.04,5.0
+1822,James Farooq,FEMALE,2022-02-16,47.0,"$55,454.83",new york,152.92,5.0
+1324,Bilal Ahmed,Male,21 May 2020,61.0,,Karachi,62.04,3.0
+1967,James Malik,male,2024-12-01,42.0,"$52,964.03",Karachi,0.88,4.0
+1402,Sara Farooq,Female,2021-06-03,150.0,"$76,146.71",New York,288.66,
+1348,Ayesha Brown,F,11-29-2019,27.0,"$71,759.31",London,21.7,2.0
+1657,Ali Garcia,male,08 Nov 2023,44.0,"$53,666.94",New York,72.29,5.0
+1719,Wei Malik,Female,30/08/2024,37.0,"$60,795.59",new york,9.55,2.0
+1741,Ayesha Butt,Female,03 Jun 2022,33.0,"$49,051.47", Islamabad,28.08,5.0
+1870,Bilal Butt,Female,09/06/2023,40.0,"$54,067.59",Karachi,77.77,3.0
+1202,Ayesha Smith,Male,2019-03-07,41.0,"$76,181.18",london ,60.56,4.0
+1088,Emma Wilson,Male,04 Jan 2019,36.0,"$51,453.55",Karachi,358.29,4.0
+1316,Maria Khan,Female,09/10/2022,45.0,"$36,127.25",London,88.77,4.0
+1851,Zara Farooq,F,2021-07-17,68.0,"$47,481.25",Islamabad,17.08,1.0
+1812,Omar Brown,FEMALE,2021-06-27,54.0,"$67,994.65",Karachi,372.2,3.0
+1957,Fatima Chen,Female,2020-07-16,25.0,"$63,287.07",london ,37.99,4.0
+1546,Emma Butt,Male,09-15-2019,60.0,"$71,569.90",new york,101.51,5.0
+1126,Bilal Farooq,Male,2023-04-28,68.0,"$62,876.01", Islamabad,27.92,5.0
+1762,Fatima Farooq,Female,01 Dec 2019,47.0,"$83,053.32",lahore,137.59,5.0
+1727,David Brown,Female,11/02/2024,29.0,"$41,549.11",LAHORE ,151.73,2.0
+1399,Sara Farooq,FEMALE,20 Jan 2024,73.0,"$55,827.73",Lahore,116.63,5.0
+1654,Noor Chen,Female,07-25-2023,43.0,"$61,331.06",,60.67,4.0
+2053,Wei Lopez,Female,30/03/2023,21.0,"$51,329.12",Islamabad,90.67,5.0
+1121,Wei Smith,Male,22 Jul 2021,49.0,"$53,184.35",Lahore,28.16,5.0
+1236,Hassan Brown,Female,08-28-2022,63.0,"$34,726.63",Islamabad,57.63,5.0
+1289,John Garcia,Male,12-26-2023,62.0,"$37,580.10",Karachi,37.57,5.0
+1870,Bilal Butt,Female,09/06/2023,40.0,"$54,067.59",Karachi,77.77,3.0
+1689,Ayesha Malik,Female,02/08/2019,65.0,"$44,508.02",london ,54.21,5.0
+1459,Ali Malik,M,02-17-2024,49.0,"$60,811.03",Lahore,21.13,2.0
+1211,Zara Iqbal,,26 Jul 2019,25.0,"$87,614.68",Karachi,24.91,5.0
+1334,Sara Ahmed,FEMALE,2021-09-22,56.0,"$68,858.00",Karachi,413.97,3.0
+1699,John Garcia,Female,2019-10-29,37.0,"$68,802.76",Karachi,214.57,3.0
+2017,Hassan Khan,Male,12-03-2019,38.0,"$54,034.76",New York,43.27,5.0
+1119,John Khan,Female,15/05/2020,32.0,"$47,550.79",Karachi,50.56,
+1413,Ayesha Wilson,,04 Jan 2024,54.0,"$59,564.83", Islamabad,14.1,3.0
+1803,Bilal Chen,MALE,10 Jul 2022,65.0,"$24,833.03",new york,22.73,5.0
+1505,Maria Brown,male,02-15-2024,64.0,"$32,935.07",London,60.34,5.0
+1285,James Chen,F,30 Nov 2020,26.0,"$73,712.12",New York,94.74,4.0
+1465,Noor Iqbal,MALE,2021-10-22,27.0,"$35,495.84",Islamabad,3.96,4.0
+2032,Ali Khan,M,04-25-2023,31.0,"$48,180.10",Lahore,220.58,5.0
+1433,Noor Malik,Male,2024-03-22,23.0,"$25,784.60",london ,44.18,5.0
+1835,Noor Smith,Female,11-18-2019,48.0,"$63,136.50",Islamabad,38.95,5.0
+1953,Emma Garcia,Female,2020-11-23,68.0,"$50,762.37",london ,18.46,5.0
+1641,Emma Butt,Female,12-23-2024,18.0,"$57,431.32",new york,500.38,2.0
+1369,John Iqbal,Male,31/01/2024,,"$38,643.20",karachi,77.54,4.0
+2079,Maria Iqbal,Female,08-06-2021,42.0,"$26,507.14",Lahore,338.48,4.0
+2041,Noor Khan,F,02-25-2023,67.0,"$61,777.39",New York,156.99,1.0
+1057,James Lopez,,15 Jul 2021,65.0,"$70,836.28",london ,78.42,4.0
+1749,Omar Smith,Female,11-18-2024,36.0,"$62,799.17",Islamabad,33.86,5.0
+1928,Noor Iqbal,male,24 Jan 2021,41.0,"$51,008.46",new york,120.94,5.0
+1638,Fatima Khan,Male,2022-02-10,40.0,"$45,367.76",Islamabad,435.4,4.0
+1812,Fatima Chen,FEMALE,05-13-2023,68.0,"$37,543.70",karachi,30.86,4.0
+1941,Zara Ahmed,Male,04-17-2023,73.0,"$53,199.03",Islamabad,102.27,2.0
+1617,Omar Chen,MALE,17 Mar 2022,69.0,"$65,709.96",karachi,20.74,3.0
+1094,David Malik,Male,04-16-2020,50.0,"$65,503.21",new york,425.44,4.0
+1962,Ayesha Chen,Female,05 Mar 2023,51.0,"$44,949.71",LAHORE ,20.07,4.0
+1419,Zara Brown,Female,24 Apr 2022,50.0,"$66,280.57",New York,223.72,5.0
+1603,James Smith,female,07/09/2020,22.0,"$52,318.58",New York,84.46,
+1527,Sara Lopez,Female,2020-12-28,30.0,"$64,553.88",LAHORE ,272.04,5.0
+1916,Ayesha Chen,MALE,10 Jan 2022,70.0,"$82,719.26",london ,12.85,4.0
+1429,Maria Farooq,Female,05-27-2021,74.0,"$68,526.42",Lahore,71.79,
+1339,Zara Garcia,,2024-09-19,49.0,"$64,680.61",karachi,45.5,3.0
+2057,Zara Smith,FEMALE,08-03-2023,50.0,"$63,810.08",New York,23.03,5.0
+1827,Ali Iqbal,F,02-02-2024,36.0,"$51,536.06",London,424.31,3.0
+1307,Noor Malik,female,05-18-2023,69.0,"$36,739.15",Karachi,30.86,2.0
+1119,James Chen,FEMALE,19 Apr 2022,28.0,"$64,695.97",Islamabad,35.22,4.0
+1494,Ayesha Farooq,Female,09 Feb 2024,51.0,"$30,121.69",Lahore,118.22,
+1263,Maria Farooq,Male,2022-12-12,30.0,,New York,42.21,2.0
+1704,Ali Chen,Female,2020-04-12,57.0,"$42,002.07",Islamabad,20.6,5.0
+1949,Emma Wilson,Female,11-04-2023,38.0,"$58,702.22",new york,16.23,5.0
+1164,Wei Khan,FEMALE,10-06-2023,51.0,"$33,100.38",New York,10.13,5.0
